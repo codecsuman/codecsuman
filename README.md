@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast;Actively+Looking+for+Internship+Opportunities" />
 </p>
 
 <p align="center">
@@ -27,12 +27,26 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)
-- 📊 CGPA: 7.2 (Till 6th Semester)
-- 💻 Full Stack Developer specializing in MERN applications
-- ☁ Skilled in Cloud Deployment with Vercel & Render
-- 🧠 Strong in Data Structures & Object-Oriented Programming
-- 📍 Kolkata, India
+- 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)  
+- 📊 CGPA: 7.2 (Till 6th Semester)  
+- 💻 Full Stack Developer specializing in MERN applications  
+- ☁ Skilled in Cloud Deployment with Vercel & Render  
+- 🧠 Strong in Data Structures & Object-Oriented Programming  
+- 📍 Kolkata, India  
+
+---
+
+## 💼 Internship & Opportunities
+
+> 🌟 **Actively seeking**: Backend / Full-Stack Developer Internship (MERN, Node.js, React)
+
+- 🔍 Looking for **Summer/Winter 2025** internship opportunities  
+- 💡 Interested in **product-based companies / startups**  
+- 🧩 Comfortable with:
+  - Building & scaling REST APIs  
+  - Designing secure auth (JWT, RBAC)  
+  - Working with MongoDB / SQL  
+- 📬 Reach me at **sumanjhanp1@gmail.com** or via GitHub / LinkedIn  
 
 ---
 
@@ -49,72 +63,89 @@
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)  
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+<details>
+  <summary><b>👨‍💻 Languages, Frameworks & Tools</b></summary>
+  <br/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![Tailwind](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwindcss)
+  ### 👨‍💻 Programming Languages  
+  ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+  ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
-![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=jsonwebtoken)
+  ### 🎨 Frontend  
+  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwindcss)
 
-### 🗄 Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)  
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+  ### ⚙ Backend  
+  ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+  ![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+  ![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=jsonwebtoken)
+
+  ### 🗄 Databases & Tools  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+  ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+  ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+
+</details>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏥 Doctor Appointment Booking System
-✅ JWT | RBAC | Payments | Cloudinary
+<details>
+  <summary><b>🏥 Doctor Appointment Booking System</b></summary>
+  <br/>
 
-**Code & Demo**  
-<a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
-<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
+  ✅ JWT | RBAC | Payments | Cloudinary  
 
-<a href="https://full-stack-doctor-appointment-booki.vercel.app">
-<img src="https://img.shields.io/badge/Live_App-Vercel-black?style=for-the-badge"></a>
+  **Code & Demo**  
+  <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
+  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
-<a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
-<img src="https://img.shields.io/badge/Mirror_Link-Online-blue?style=for-the-badge"></a>
+  <a href="https://full-stack-doctor-appointment-booki.vercel.app">
+  <img src="https://img.shields.io/badge/Live_App-Vercel-black?style=for-the-badge"></a>
 
----
+  <a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
+  <img src="https://img.shields.io/badge/Mirror_Link-Online-blue?style=for-the-badge"></a>
 
-### 💼 Job Portal Application
-✅ Resume Upload | Employer Panel | Search Filters
+</details>
 
-**Code & Demo**  
-<a href="https://github.com/codecsuman/project-jobportal">
-<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
+<details>
+  <summary><b>💼 Job Portal Application</b></summary>
+  <br/>
 
-<a href="https://project-jobportal-4.onrender.com/">
-<img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge"></a>
+  ✅ Resume Upload | Employer Panel | Search Filters  
 
----
+  **Code & Demo**  
+  <a href="https://github.com/codecsuman/project-jobportal">
+  <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
-### 📸 Instagram Clone
-✅ Chat | Feed | Notifications | Socket.IO
+  <a href="https://project-jobportal-4.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge"></a>
 
-**Code & Demo**  
-<a href="https://github.com/codecsuman/instragram_clone">
-<img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge"></a>
+</details>
 
-<a href="https://github.com/codecsuman/instagram">
-<img src="https://img.shields.io/badge/Repo_2-GitHub-black?style=for-the-badge"></a>
+<details>
+  <summary><b>📸 Instagram Clone</b></summary>
+  <br/>
 
-<a href="https://instragram-clone-5.onrender.com/">
-<img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge"></a>
+  ✅ Chat | Feed | Notifications | Socket.IO  
+
+  **Code & Demo**  
+  <a href="https://github.com/codecsuman/instragram_clone">
+  <img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge"></a>
+
+  <a href="https://github.com/codecsuman/instagram">
+  <img src="https://img.shields.io/badge/Repo_2-GitHub-black?style=for-the-badge"></a>
+
+  <a href="https://instragram-clone-5.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge"></a>
+
+</details>
 
 ---
 
@@ -137,8 +168,9 @@
 ---
 
 ## 📫 Contact
-📧 sumanjhanp1@gmail.com  
-📍 Kolkata, India  
+
+📧 **Email:** `sumanjhanp1@gmail.com`  
+📍 **Location:** Kolkata, India  
 
 ---
 
