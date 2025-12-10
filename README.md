@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Engineer | B.Tech IT Student</h3>
+<h3 align="center">Full-Stack Engineer | MERN Stack Developer | B.Tech IT Student</h3>
 
 <p align="center">
   <a href="https://github.com/codecsuman"><img src="https://img.shields.io/badge/GitHub-codecsuman-black?style=for-the-badge&logo=github"></a>
@@ -11,11 +11,21 @@
 
 ## 🚀 About Me
 - 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)  
-- 💻 MERN Stack Developer & Backend Engineer  
+- 💻 **Full-Stack Engineer** | MERN Stack Developer with a **Backend Focus**
 - ☁ Experience with Vercel, Render & Cloud Deployments  
 - 🧠 Strong in DSA & OOP  
 - 📍 Kolkata, India  
 - 🌱 Learning System Design & Scalability
+
+---
+
+## 🧠 Key Skills & Concepts
+
+* **Data Structures & Algorithms (DSA):** Strong foundational knowledge and problem-solving skills (Check my LeetCode profile!).
+* **Object-Oriented Programming (OOP):** Proficient in Java/C++ principles.
+* **Authentication/Authorization:** Expertise in **JWT** implementation, Role-based Access Control (RBAC).
+* **API Development:** Designing and implementing robust **RESTful APIs** with Express/Node.js.
+* **Deployment:** CI/CD concepts, experience with Vercel and Render cloud platforms.
 
 ---
 
@@ -50,12 +60,12 @@
 
 ### 🏥 Doctor Appointment Booking System (MERN)
 ✅ JWT Auth | Admin Panel | Razorpay + Stripe | Cloudinary  
+* **Technical Stack:** React, Node.js/Express, MongoDB, JWT, Cloudinary.
+* **Key Feature Highlight:** Implemented secure **Role-Based Access Control (RBAC)** and integrated two major payment gateways (Razorpay, Stripe) for a robust e-commerce flow. 
 
-🔗 **Repo:**  
-https://github.com/codecsuman/Doctor-Appointment-Booking  
+🔗 **Repo:** https://github.com/codecsuman/Doctor-Appointment-Booking  
 
-🚀 **Live Demo:**  
-<a href="https://full-stack-doctor-appointment-booki.vercel.app">
+🚀 **Live Demo:** <a href="https://full-stack-doctor-appointment-booki.vercel.app">
 <img src="https://img.shields.io/badge/Visit_App-Vercel-black?style=for-the-badge&logo=vercel">
 </a>
 <a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
@@ -66,12 +76,12 @@ https://github.com/codecsuman/Doctor-Appointment-Booking
 
 ### 💼 Job Portal Application
 ✅ Resume Upload | Search & Filter | Employer Dashboard  
+* **Technical Stack:** MERN Stack.
+* **Key Feature Highlight:** Built a comprehensive employer/job seeker dashboard with powerful search/filter functionalities to streamline the hiring process.
 
-🔗 **Repo:**  
-https://github.com/codecsuman/project-jobportal  
+🔗 **Repo:** https://github.com/codecsuman/project-jobportal  
 
-🚀 **Live Demo:**  
-<a href="https://project-jobportal-4.onrender.com/">
+🚀 **Live Demo:** <a href="https://project-jobportal-4.onrender.com/">
 <img src="https://img.shields.io/badge/Visit_App-Render-green?style=for-the-badge&logo=render">
 </a>
 
@@ -79,15 +89,23 @@ https://github.com/codecsuman/project-jobportal
 
 ### 📸 Instagram Clone
 ✅ Real-time Chat | Notifications | Post Feed  
+* **Technical Stack:** MERN Stack with **Socket.io**.
+* **Key Feature Highlight:** Utilized **Socket.io** for bi-directional, low-latency communication to deliver real-time notifications and chat functionality.
 
-🔗 **Repos:**  
-https://github.com/codecsuman/instragram_clone  
+🔗 **Repos:** https://github.com/codecsuman/instragram_clone  
 https://github.com/codecsuman/instagram  
 
-🚀 **Live Demo:**  
-<a href="https://instragram-clone-5.onrender.com/">
+🚀 **Live Demo:** <a href="https://instragram-clone-5.onrender.com/">
 <img src="https://img.shields.io/badge/Visit_App-Render-green?style=for-the-badge&logo=render">
 </a>
+
+---
+
+## 🌱 Learning & Future Goals
+
+* **Currently Focussing On:** Deeper understanding of **System Design** principles (e.g., Load Balancers, Caching strategies like Redis, Database Sharding) for building scalable and reliable applications.
+* **Next Tech To Explore:** Learning **AWS/GCP** for enterprise-level cloud deployment and serverless architecture (Lambda).
+* **Goal:** Transitioning from MERN development to a robust, scalable architecture-focused Full-Stack or Backend Engineering role.
 
 ---
 
