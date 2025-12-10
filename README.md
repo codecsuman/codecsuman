@@ -1,39 +1,56 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend+Focused+Developer;System+Design+Enthusiast" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend+Focused+Developer;System+Design+Enthusiast" 
+    alt="Typing animation: Full Stack Web Developer; MERN Stack Engineer; Backend Focused Developer; System Design Enthusiast"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/codecsuman"><img src="https://img.shields.io/badge/GitHub-codecsuman-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://leetcode.com/u/sumanjhanp1/"><img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode"/></a>
-  <a href="mailto:sumanjhanp1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe"/></a>
+  <a href="https://github.com/codecsuman">
+    <img src="https://img.shields.io/badge/GitHub-codecsuman-000?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
+  </a>
+  <a href="mailto:sumanjhanp1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email: sumanjhanp1@gmail.com" />
+  </a>
+  <a href="resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" alt="Download Resume PDF" />
+  </a>
   <a href="https://vercel.com/codecsumans-projects">
-    <img src="https://img.shields.io/badge/Vercel-Dashboard-black?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/Vercel-Dashboard-black?style=for-the-badge&logo=vercel" alt="Vercel Dashboard" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codecsuman&label=Profile+Views&color=00C2FF&style=flat-square" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=codecsuman&label=Profile+Views&color=00C2FF&style=flat-square" 
+    alt="GitHub Profile Views" 
+  />
 </p>
 
 ---
 
 ## ✨ About Me
 
-🎓 **B.Tech IT (2022–2026)** — RCC Institute of Information Technology  
-📍 Kolkata, India  
-🎯 Backend-first Full Stack Developer  
-☁ Cloud Deployment: Vercel, Render  
-🧠 Strong in DSA, OOP & System Design  
+* 🎓 **B.Tech IT (2022–2026)** — RCC Institute of Information Technology
+* 📍 **Location:** Kolkata, India
+* 🎯 **Role Focus:** Backend-first Full Stack Developer
+* ☁ **Cloud/Deployment:** Vercel, Render
+* 🧠 **Core Strengths:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), & System Design
 
 ---
 
-## 🛠 Tech Stack (Animated)
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,react,next,node,express,mongodb,mysql,tailwind,git,postman&theme=dark" />
+  <img 
+    src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,react,next,node,express,mongodb,mysql,tailwind,git,postman&theme=dark" 
+    alt="Tech Stack: Java, C, C++, JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, Tailwind CSS, Git, Postman"
+  />
 </p>
 
 ---
@@ -41,121 +58,125 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img 
+      src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" 
+      alt="Suman Jhanp's LeetCode Stats"
+    />
+  </a>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏥 Doctor Appointment Booking System
+### 1. 🏥 Doctor Appointment Booking System
 
-**Tech:** MERN | JWT | Stripe | Cloudinary  
-✅ Auth | Role-Based Access | Payments  
+* **Key Tech:** MERN Stack | JWT Authentication | Stripe Integration | Cloudinary Storage
+* **Features:** User/Doctor/Admin Auth, Role-Based Access Control (RBAC), Payment Gateway Integration.
 
-<a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
-  <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge">
-</a>
+<p>
+  <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge" alt="GitHub Source Code" />
+  </a>
+  <a href="https://full-stack-doctor-appointment-booki.vercel.app">
+    <img src="https://img.shields.io/badge/User_App-Vercel-black?style=for-the-badge&logo=vercel" alt="Live User Application on Vercel" />
+  </a>
+  <a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
+    <img src="https://img.shields.io/badge/Admin_&_Doctor-Vercel-blue?style=for-the-badge&logo=vercel" alt="Live Admin & Doctor Application on Vercel" />
+  </a>
+</p>
 
-<a href="https://full-stack-doctor-appointment-booki.vercel.app">
-  <img src="https://img.shields.io/badge/User_App-Vercel-black?style=for-the-badge">
-</a>
+### 2. 💼 Job Portal Application
 
-<a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
-  <img src="https://img.shields.io/badge/Admin_&_Doctor-Vercel-blue?style=for-the-badge">
-</a>
+* **Features:** Resume Uploads, Dedicated Employer Panel, Advanced Search and Filtering.
 
----
+<p>
+  <a href="https://github.com/codecsuman/project-jobportal">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge" alt="GitHub Source Code" />
+  </a>
+  <a href="https://project-jobportal-4.onrender.com">
+    <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge&logo=render" alt="Live Job Portal Application on Render" />
+  </a>
+</p>
 
-### 💼 Job Portal Application
+### 3. 📸 Instagram Clone
 
-✅ Resume Upload | Employer Panel | Search Filters  
+* **Key Tech:** MERN Stack | Socket.IO (for real-time features)
+* **Features:** Real-time Chat, Post Feed, Notifications System.
 
-<a href="https://github.com/codecsuman/project-jobportal">
-  <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge">
-</a>
-
-<a href="https://project-jobportal-4.onrender.com">
-  <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge">
-</a>
-
----
-
-### 📸 Instagram Clone
-
-✅ Chat | Feed | Notifications | Socket.IO  
-
-<a href="https://github.com/codecsuman/instragram_clone">
-  <img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge">
-</a>
-
-<a href="https://github.com/codecsuman/instagram">
-  <img src="https://img.shields.io/badge/Repo_2-GitHub-black?style=for-the-badge">
-</a>
-
-<a href="https://instragram-clone-5.onrender.com">
-  <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge">
-</a>
+<p>
+  <a href="https://github.com/codecsuman/instragram_clone">
+    <img src="https://img.shields.io/badge/Frontend_Repo-GitHub-black?style=for-the-badge" alt="GitHub Frontend Repository" />
+  </a>
+  <a href="https://github.com/codecsuman/instagram">
+    <img src="https://img.shields.io/badge/Backend_Repo-GitHub-black?style=for-the-badge" alt="GitHub Backend Repository" />
+  </a>
+  <a href="https://instragram-clone-5.onrender.com">
+    <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge&logo=render" alt="Live Instagram Clone on Render" />
+  </a>
+</p>
 
 ---
 
 ## 📜 Certifications
 
-✅ Full Stack Web Development  
-✅ Data Structures & Algorithms (Java)  
-✅ Cloud Computing Basics  
-✅ Git & GitHub Mastery  
-✅ SQL & Database Engineering  
+* ✅ Full Stack Web Development
+* ✅ Data Structures & Algorithms (Java)
+* ✅ Cloud Computing Basics
+* ✅ Git & GitHub Mastery
+* ✅ SQL & Database Engineering
 
 ---
 
 ## ✍️ Blog & Learning
 
-📘 Topics:
-- MERN Engineering
-- Backend Optimization
-- DSA Patterns
-- System Design
-- Debugging Skills
+📘 **Topics of Interest:**
+* MERN Engineering Best Practices
+* Backend Optimization & Scalability
+* DSA Patterns & Problem Solving
+* System Design Case Studies
+* Advanced Debugging Skills
 
-🔗 Coming Soon: **Personal Blog Site**
-
----
-
-## 🌓 Dark / Light Mode
-
-✔ Auto adapts to GitHub theme  
-✔ Icons + Stats sync automatically  
-✔ Clean UI in both modes  
+🔗 **Coming Soon:** Personal Blog Site
 
 ---
 
-## 📊 GitHub Stats (Working)
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=codecsuman&theme=tokyonight&hide_border=true"/>
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="Suman Jhanp's GitHub Stats"
+  />
+  <img 
+    width="48%" 
+    src="https://streak-stats.demolab.com?user=codecsuman&theme=tokyonight&hide_border=true"
+    alt="Suman Jhanp's GitHub Streak"
+  />
 </p>
 
----
+### 🔥 Contribution Graph
 
-## 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" 
+    alt="Suman Jhanp's GitHub Activity Graph"
+  />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-📧 **sumanjhanp1@gmail.com**  
-📍 **Kolkata, India**  
-🌐 **GitHub:** https://github.com/codecsuman
+* 📧 **sumanjhanp1@gmail.com**
+* 📍 **Kolkata, India**
+* 🌐 **GitHub:** https://github.com/codecsuman
 
 ---
 
 ## ⚡ Fun Quote
 
-> "Deploying dreams into production." 😎  
+> "Deploying dreams into production." 😎
 > Coffee → Code → Commit → Deploy ☕🚀
-
----
