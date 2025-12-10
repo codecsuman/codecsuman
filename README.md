@@ -28,10 +28,10 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)
-- 📊 CGPA: 7.2 (Till 6th Semester) :contentReference[oaicite:0]{index=0}
-- 💻 Full Stack Developer specializing in MERN applications :contentReference[oaicite:1]{index=1}
-- ☁ Skilled in Cloud Deployment with Vercel & Render :contentReference[oaicite:2]{index=2}
-- 🧠 Strong in Data Structures & Object-Oriented Programming :contentReference[oaicite:3]{index=3}
+- 📊 CGPA: 7.2 (Till 6th Semester)
+- 💻 Full Stack Developer specializing in MERN applications
+- ☁ Skilled in Cloud Deployment with Vercel & Render
+- 🧠 Strong in Data Structures & Object-Oriented Programming
 - 📍 Kolkata, India
 
 ---
@@ -50,25 +50,26 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)  
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
 ![Tailwind](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwindcss)
 
 ### ⚙ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)  
+![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)  
 ![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=jsonwebtoken)
 
 ### 🗄 Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)  
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)  
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
@@ -76,8 +77,9 @@
 ## 📌 Featured Projects
 
 ### 🏥 Doctor Appointment Booking System
-✅ JWT | RBAC | Payments | Cloudinary :contentReference[oaicite:4]{index=4}
+✅ JWT | RBAC | Payments | Cloudinary
 
+**Code & Demo**  
 <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
 <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
@@ -90,8 +92,9 @@
 ---
 
 ### 💼 Job Portal Application
-✅ Resume Upload | Employer Panel | Search Filters :contentReference[oaicite:5]{index=5}
+✅ Resume Upload | Employer Panel | Search Filters
 
+**Code & Demo**  
 <a href="https://github.com/codecsuman/project-jobportal">
 <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
@@ -101,8 +104,9 @@
 ---
 
 ### 📸 Instagram Clone
-✅ Chat | Feed | Notifications | Socket.IO :contentReference[oaicite:6]{index=6}
+✅ Chat | Feed | Notifications | Socket.IO
 
+**Code & Demo**  
 <a href="https://github.com/codecsuman/instragram_clone">
 <img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge"></a>
 
@@ -139,4 +143,4 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy solving backend problems more than frontend bugs 😄
+I deploy more than I sleep 😎
