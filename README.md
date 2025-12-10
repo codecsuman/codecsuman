@@ -152,12 +152,12 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    height="180"
-    alt="Suman Jhanp's GitHub Stats"
+    height=""
+    alt=""
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=tokyonight&hide_border=true"
-    height="180"
+    height="200"
     alt="Suman Jhanp's GitHub Streak"
   />
 </p>
@@ -165,8 +165,8 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top Languages"
+    height=""
+    alt=""
   />
 </p>
 
