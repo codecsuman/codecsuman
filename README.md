@@ -1,56 +1,68 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
-<h3 align="center">Full-Stack Engineer | MERN Stack Developer | B.Tech IT Student</h3>
 
 <p align="center">
-  <a href="https://github.com/codecsuman"><img src="https://img.shields.io/badge/GitHub-codecsuman-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/u/sumanjhanp1/"><img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode"></a>
-  <a href="mailto:sumanjhanp1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;MERN+Stack+Developer;Backend+Focused+Developer;System+Design+Learner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/codecsuman">
+    <img src="https://img.shields.io/badge/GitHub-codecsuman-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="mailto:sumanjhanp1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codecsuman&label=Profile+Views&color=blue&style=flat-square" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)  
-- 💻 **Full-Stack Engineer** | MERN Stack Developer with a **Backend Focus**
-- ☁ Experience with Vercel, Render & Cloud Deployments  
-- 🧠 Strong in DSA & OOP  
-- 📍 Kolkata, India  
+- 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)
+- 💻 Full-Stack Engineer (Backend Focused)
+- ☁ Deployed apps on Vercel & Render
+- 🧠 Strong in DSA & OOP
+- 📍 Kolkata, India
 - 🌱 Learning System Design & Scalability
 
 ---
 
-## 🧠 Key Skills & Concepts
-
-* **Data Structures & Algorithms (DSA):** Strong foundational knowledge and problem-solving skills (Check my LeetCode profile!).
-* **Object-Oriented Programming (OOP):** Proficient in Java/C++ principles.
-* **Authentication/Authorization:** Expertise in **JWT** implementation, Role-based Access Control (RBAC).
-* **API Development:** Designing and implementing robust **RESTful APIs** with Express/Node.js.
-* **Deployment:** CI/CD concepts, experience with Vercel and Render cloud platforms.
+## 🧠 Core Strengths
+✅ Backend Engineering  
+✅ REST APIs  
+✅ JWT + RBAC  
+✅ Scalable Architecture  
+✅ Cloud Deployments  
+✅ CI/CD Concepts
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwindcss)
 
-### ⚙ Backend
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=jsonwebtoken)
-
-### 🗄 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
@@ -58,78 +70,83 @@
 
 ## 📌 Featured Projects
 
-### 🏥 Doctor Appointment Booking System (MERN)
-✅ JWT Auth | Admin Panel | Razorpay + Stripe | Cloudinary  
-* **Technical Stack:** React, Node.js/Express, MongoDB, JWT, Cloudinary.
-* **Key Feature Highlight:** Implemented secure **Role-Based Access Control (RBAC)** and integrated two major payment gateways (Razorpay, Stripe) for a robust e-commerce flow. 
+### 🏥 Doctor Appointment Booking System
+<a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
 
-🔗 **Repo:** https://github.com/codecsuman/Doctor-Appointment-Booking  
-
-🚀 **Live Demo:** <a href="https://full-stack-doctor-appointment-booki.vercel.app">
-<img src="https://img.shields.io/badge/Visit_App-Vercel-black?style=for-the-badge&logo=vercel">
+<a href="https://full-stack-doctor-appointment-booki.vercel.app">
+<img src="https://img.shields.io/badge/Live-Vercel-black?style=for-the-badge&logo=vercel">
 </a>
+
 <a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
-<img src="https://img.shields.io/badge/Mirror_Link-Live-blue?style=for-the-badge&logo=web">
+<img src="https://img.shields.io/badge/Backup_Link-Online-blue?style=for-the-badge">
 </a>
+
+✅ RBAC | Payments | Admin Panel | Cloudinary
 
 ---
 
 ### 💼 Job Portal Application
-✅ Resume Upload | Search & Filter | Employer Dashboard  
-* **Technical Stack:** MERN Stack.
-* **Key Feature Highlight:** Built a comprehensive employer/job seeker dashboard with powerful search/filter functionalities to streamline the hiring process.
+<a href="https://github.com/codecsuman/project-jobportal">
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
-🔗 **Repo:** https://github.com/codecsuman/project-jobportal  
-
-🚀 **Live Demo:** <a href="https://project-jobportal-4.onrender.com/">
-<img src="https://img.shields.io/badge/Visit_App-Render-green?style=for-the-badge&logo=render">
+<a href="https://project-jobportal-4.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Render-Online-green?style=for-the-badge">
 </a>
+
+✅ Resume Upload | Filtering | Employer Dashboard
 
 ---
 
 ### 📸 Instagram Clone
-✅ Real-time Chat | Notifications | Post Feed  
-* **Technical Stack:** MERN Stack with **Socket.io**.
-* **Key Feature Highlight:** Utilized **Socket.io** for bi-directional, low-latency communication to deliver real-time notifications and chat functionality.
+<a href="https://github.com/codecsuman/instragram_clone">
+<img src="https://img.shields.io/badge/Repo_One-GitHub-black?style=for-the-badge"></a>
 
-🔗 **Repos:** https://github.com/codecsuman/instragram_clone  
-https://github.com/codecsuman/instagram  
+<a href="https://github.com/codecsuman/instagram">
+<img src="https://img.shields.io/badge/Repo_Two-GitHub-black?style=for-the-badge"></a>
 
-🚀 **Live Demo:** <a href="https://instragram-clone-5.onrender.com/">
-<img src="https://img.shields.io/badge/Visit_App-Render-green?style=for-the-badge&logo=render">
+<a href="https://instragram-clone-5.onrender.com/">
+<img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge">
 </a>
 
----
-
-## 🌱 Learning & Future Goals
-
-* **Currently Focussing On:** Deeper understanding of **System Design** principles (e.g., Load Balancers, Caching strategies like Redis, Database Sharding) for building scalable and reliable applications.
-* **Next Tech To Explore:** Learning **AWS/GCP** for enterprise-level cloud deployment and serverless architecture (Lambda).
-* **Goal:** Transitioning from MERN development to a robust, scalable architecture-focused Full-Stack or Backend Engineering role.
+✅ Real-time chat | Socket.io | Notifications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=codecsuman&theme=onedark&no-frame=true&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codecsuman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔗 Coding Profiles
+## 💡 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=react-dark"/>
 
-- GitHub → https://github.com/codecsuman  
-- LeetCode → https://leetcode.com/u/sumanjhanp1/
+---
+
+## 🔗 Profiles
+<a href="https://github.com/codecsuman">
+<img src="https://img.shields.io/badge/GitHub_Profile-codecsuman-black?style=for-the-badge">
+</a>
+
+<a href="https://leetcode.com/u/sumanjhanp1/">
+<img src="https://img.shields.io/badge/LeetCode_Profile-sumanjhanp1-orange?style=for-the-badge">
+</a>
 
 ---
 
 ## 📫 Contact
-📧 Email: sumanjhanp1@gmail.com  
+📧 sumanjhanp1@gmail.com  
 📍 Kolkata, India  
 
 ---
 
 ## ⚡ Fun Fact
-I love building real products more than solving toy problems 😄
+I deploy more than I sleep 😎
