@@ -9,6 +9,9 @@
   <a href="https://leetcode.com/u/sumanjhanp1/"><img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode"/></a>
   <a href="mailto:sumanjhanp1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
   <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe"/></a>
+  <a href="https://vercel.com/codecsumans-projects">
+    <img src="https://img.shields.io/badge/Vercel-Dashboard-black?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
 <p align="center">
@@ -27,13 +30,11 @@
 
 ---
 
-## 🛠 Animated Skill Icons
+## 🛠 Tech Stack (Animated)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,react,next,node,express,mongodb,mysql,tailwind,git,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,react,next,node,express,mongodb,mysql,tailwind,git,postman&theme=dark" />
 </p>
-
-> 🔹 Auto switches to light mode when GitHub theme is light.
 
 ---
 
@@ -48,87 +49,113 @@
 ## 📌 Featured Projects
 
 ### 🏥 Doctor Appointment Booking System
-**Tech:** MERN, JWT, Stripe, Cloudinary  
-✅ Authentication | RBAC | Payments  
 
-<a href="https://github.com/codecsuman/Doctor-Appointment-Booking"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
-<a href="https://full-stack-doctor-appointment-booki.vercel.app"><img src="https://img.shields.io/badge/Live-Vercel-black?style=for-the-badge"></a>
+**Tech:** MERN | JWT | Stripe | Cloudinary  
+✅ Auth | Role-Based Access | Payments  
+
+<a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
+  <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge">
+</a>
+
+<a href="https://full-stack-doctor-appointment-booki.vercel.app">
+  <img src="https://img.shields.io/badge/User_App-Vercel-black?style=for-the-badge">
+</a>
+
+<a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
+  <img src="https://img.shields.io/badge/Admin_&_Doctor-Vercel-blue?style=for-the-badge">
+</a>
 
 ---
 
-### 💼 Job Portal Application  
-✅ Resume Upload | Employer Panel | Search
+### 💼 Job Portal Application
 
-<a href="https://github.com/codecsuman/project-jobportal"><img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
-<a href="https://project-jobportal-4.onrender.com"><img src="https://img.shields.io/badge/Live-Render-green?style=for-the-badge"></a>
+✅ Resume Upload | Employer Panel | Search Filters  
+
+<a href="https://github.com/codecsuman/project-jobportal">
+  <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge">
+</a>
+
+<a href="https://project-jobportal-4.onrender.com">
+  <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge">
+</a>
 
 ---
 
 ### 📸 Instagram Clone
-✅ Realtime Chat | Feed | Notifications
 
-<a href="https://github.com/codecsuman/instragram_clone"><img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge"></a>
-<a href="https://github.com/codecsuman/instagram"><img src="https://img.shields.io/badge/Repo_2-GitHub-black?style=for-the-badge"></a>
-<a href="https://instragram-clone-5.onrender.com"><img src="https://img.shields.io/badge/Live-App-green?style=for-the-badge"></a>
+✅ Chat | Feed | Notifications | Socket.IO  
+
+<a href="https://github.com/codecsuman/instragram_clone">
+  <img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge">
+</a>
+
+<a href="https://github.com/codecsuman/instagram">
+  <img src="https://img.shields.io/badge/Repo_2-GitHub-black?style=for-the-badge">
+</a>
+
+<a href="https://instragram-clone-5.onrender.com">
+  <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge">
+</a>
 
 ---
 
 ## 📜 Certifications
 
 ✅ Full Stack Web Development  
-✅ Data Structures & Algorithms in Java  
+✅ Data Structures & Algorithms (Java)  
 ✅ Cloud Computing Basics  
 ✅ Git & GitHub Mastery  
 ✅ SQL & Database Engineering  
 
 ---
 
-## ✍ Blog & Learning
+## ✍️ Blog & Learning
 
-📝 Writing about:
-- MERN Best Practices
-- System Design Basics
-- Backend Performance
-- DS & Algo Patterns
-- Debugging Techniques
+📘 Topics:
+- MERN Engineering
+- Backend Optimization
+- DSA Patterns
+- System Design
+- Debugging Skills
 
-📌 Coming Soon: **Personal Blog Website**
-
----
-
-## 🌓 Dark / Light Theme Support
-
-- Works with GitHub theme
-- Icons auto switch
-- Stats auto adjust
+🔗 Coming Soon: **Personal Blog Site**
 
 ---
 
-## 📊 GitHub Stats
+## 🌓 Dark / Light Mode
+
+✔ Auto adapts to GitHub theme  
+✔ Icons + Stats sync automatically  
+✔ Clean UI in both modes  
+
+---
+
+## 📊 GitHub Stats (Working)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=codecsuman&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 📧 **sumanjhanp1@gmail.com**  
-📍 **Kolkata, India**
+📍 **Kolkata, India**  
+🌐 **GitHub:** https://github.com/codecsuman
 
 ---
 
 ## ⚡ Fun Quote
 
-> "I deploy more than I sleep." 😎  
-> Coffee ➝ Code ➝ Commit ➝ Repeat ☕  
+> "Deploying dreams into production." 😎  
+> Coffee → Code → Commit → Deploy ☕🚀
 
 ---
