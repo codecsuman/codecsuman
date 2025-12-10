@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;MERN+Stack+Developer;Backend+Focused+Developer;System+Design+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" />
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@
   <a href="mailto:sumanjhanp1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobe">
+  </a>
 </p>
 
 <p align="center">
@@ -23,46 +26,48 @@
 ---
 
 ## 🚀 About Me
+
 - 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)
-- 💻 Full-Stack Engineer (Backend Focused)
-- ☁ Deployed apps on Vercel & Render
-- 🧠 Strong in DSA & OOP
+- 📊 CGPA: 7.2 (Till 6th Semester) :contentReference[oaicite:0]{index=0}
+- 💻 Full Stack Developer specializing in MERN applications :contentReference[oaicite:1]{index=1}
+- ☁ Skilled in Cloud Deployment with Vercel & Render :contentReference[oaicite:2]{index=2}
+- 🧠 Strong in Data Structures & Object-Oriented Programming :contentReference[oaicite:3]{index=3}
 - 📍 Kolkata, India
-- 🌱 Learning System Design & Scalability
 
 ---
 
 ## 🧠 Core Strengths
+
+✅ REST API Development  
+✅ JWT Authentication & RBAC  
+✅ Full-Stack Architecture  
+✅ CI/CD Concepts  
+✅ Scalable System Design  
 ✅ Backend Engineering  
-✅ REST APIs  
-✅ JWT + RBAC  
-✅ Scalable Architecture  
-✅ Cloud Deployments  
-✅ CI/CD Concepts
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming
+### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwindcss)
+![Tailwind](https://img.shields.io/badge/Tailwind-grey?style=for-the-badge&logo=tailwindcss)
 
-### Backend & Databases
+### ⚙ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge&logo=jsonwebtoken)
+
+### 🗄 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
@@ -71,45 +76,41 @@
 ## 📌 Featured Projects
 
 ### 🏥 Doctor Appointment Booking System
+✅ JWT | RBAC | Payments | Cloudinary :contentReference[oaicite:4]{index=4}
+
 <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
-<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge&logo=github"></a>
+<img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
 <a href="https://full-stack-doctor-appointment-booki.vercel.app">
-<img src="https://img.shields.io/badge/Live-Vercel-black?style=for-the-badge&logo=vercel">
-</a>
+<img src="https://img.shields.io/badge/Live_App-Vercel-black?style=for-the-badge"></a>
 
 <a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
-<img src="https://img.shields.io/badge/Backup_Link-Online-blue?style=for-the-badge">
-</a>
-
-✅ RBAC | Payments | Admin Panel | Cloudinary
+<img src="https://img.shields.io/badge/Mirror_Link-Online-blue?style=for-the-badge"></a>
 
 ---
 
 ### 💼 Job Portal Application
+✅ Resume Upload | Employer Panel | Search Filters :contentReference[oaicite:5]{index=5}
+
 <a href="https://github.com/codecsuman/project-jobportal">
 <img src="https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge"></a>
 
 <a href="https://project-jobportal-4.onrender.com/">
-<img src="https://img.shields.io/badge/Live_Render-Online-green?style=for-the-badge">
-</a>
-
-✅ Resume Upload | Filtering | Employer Dashboard
+<img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge"></a>
 
 ---
 
 ### 📸 Instagram Clone
+✅ Chat | Feed | Notifications | Socket.IO :contentReference[oaicite:6]{index=6}
+
 <a href="https://github.com/codecsuman/instragram_clone">
-<img src="https://img.shields.io/badge/Repo_One-GitHub-black?style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/Repo_1-GitHub-black?style=for-the-badge"></a>
 
 <a href="https://github.com/codecsuman/instagram">
-<img src="https://img.shields.io/badge/Repo_Two-GitHub-black?style=for-the-badge"></a>
+<img src="https://img.shields.io/badge/Repo_2-GitHub-black?style=for-the-badge"></a>
 
 <a href="https://instragram-clone-5.onrender.com/">
-<img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge">
-</a>
-
-✅ Real-time chat | Socket.io | Notifications
+<img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge"></a>
 
 ---
 
@@ -126,19 +127,8 @@
 
 ---
 
-## 💡 Activity Graph
+## 🔥 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=react-dark"/>
-
----
-
-## 🔗 Profiles
-<a href="https://github.com/codecsuman">
-<img src="https://img.shields.io/badge/GitHub_Profile-codecsuman-black?style=for-the-badge">
-</a>
-
-<a href="https://leetcode.com/u/sumanjhanp1/">
-<img src="https://img.shields.io/badge/LeetCode_Profile-sumanjhanp1-orange?style=for-the-badge">
-</a>
 
 ---
 
@@ -149,4 +139,4 @@
 ---
 
 ## ⚡ Fun Fact
-I deploy more than I sleep 😎
+I enjoy solving backend problems more than frontend bugs 😄
