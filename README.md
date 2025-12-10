@@ -36,11 +36,11 @@
 
 ## ✨ About Me
 
-* 🎓 **B.Tech IT (2022–2026)** — RCC Institute of Information Technology
-* 📍 **Location:** Kolkata, India
-* 🎯 **Role Focus:** Backend-first Full Stack Developer
-* ☁ **Cloud/Deployment:** Vercel, Render
-* 🧠 **Core Strengths:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), & System Design
+- 🎓 **B.Tech IT (2022–2026)** — RCC Institute of Information Technology  
+- 📍 **Location:** Kolkata, India  
+- 🎯 **Role Focus:** Backend-first Full Stack Developer  
+- ☁ **Cloud & Deployment:** Vercel, Render  
+- 🧠 **Core Strengths:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), System Design  
 
 ---
 
@@ -72,8 +72,8 @@
 
 ### 1. 🏥 Doctor Appointment Booking System
 
-* **Key Tech:** MERN Stack | JWT Authentication | Stripe Integration | Cloudinary Storage
-* **Features:** User/Doctor/Admin Auth, Role-Based Access Control (RBAC), Payment Gateway Integration.
+- **Tech:** MERN Stack | JWT Authentication | Stripe Integration | Cloudinary Storage  
+- **Features:** User / Doctor / Admin auth, RBAC, payment gateway integration.
 
 <p>
   <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
@@ -87,9 +87,11 @@
   </a>
 </p>
 
+---
+
 ### 2. 💼 Job Portal Application
 
-* **Features:** Resume Uploads, Dedicated Employer Panel, Advanced Search and Filtering.
+- **Features:** Resume uploads, employer panel, advanced job search & filtering.
 
 <p>
   <a href="https://github.com/codecsuman/project-jobportal">
@@ -100,10 +102,12 @@
   </a>
 </p>
 
+---
+
 ### 3. 📸 Instagram Clone
 
-* **Key Tech:** MERN Stack | Socket.IO (for real-time features)
-* **Features:** Real-time Chat, Post Feed, Notifications System.
+- **Tech:** MERN Stack | Socket.IO (real-time)  
+- **Features:** Real-time chat, post feed, notification system.
 
 <p>
   <a href="https://github.com/codecsuman/instragram_clone">
@@ -121,24 +125,36 @@
 
 ## 📜 Certifications
 
-* ✅ Full Stack Web Development
-* ✅ Data Structures & Algorithms (Java)
-* ✅ Cloud Computing Basics
-* ✅ Git & GitHub Mastery
-* ✅ SQL & Database Engineering
+- ✅ Full Stack Web Development  
+- ✅ Data Structures & Algorithms (Java)  
+- ✅ Cloud Computing Basics  
+- ✅ Git & GitHub Mastery  
+- ✅ SQL & Database Engineering  
 
 ---
 
 ## ✍️ Blog & Learning
 
-📘 **Topics of Interest:**
-* MERN Engineering Best Practices
-* Backend Optimization & Scalability
-* DSA Patterns & Problem Solving
-* System Design Case Studies
-* Advanced Debugging Skills
+📘 **Topics I love exploring:**
 
-🔗 **Coming Soon:** Personal Blog Site
+- MERN engineering best practices  
+- Backend optimization & scalability  
+- DSA patterns & problem solving  
+- System design case studies  
+- Advanced debugging techniques  
+
+🔗 **Coming Soon:** Personal blog site
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=codecsuman&theme=onedark&no-frame=true&row=1&margin-w=10" 
+    alt="GitHub Profile Trophies"
+  />
+</p>
 
 ---
 
@@ -157,6 +173,14 @@
   />
 </p>
 
+<p align="center">
+  <img 
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
 ### 🔥 Contribution Graph
 
 <p align="center">
@@ -170,13 +194,13 @@
 
 ## 📫 Contact Me
 
-* 📧 **sumanjhanp1@gmail.com**
-* 📍 **Kolkata, India**
-* 🌐 **GitHub:** https://github.com/codecsuman
+- 📧 **Email:** [sumanjhanp1@gmail.com](mailto:sumanjhanp1@gmail.com)  
+- 📍 **Location:** Kolkata, India  
+- 🌐 **GitHub:** [github.com/codecsuman](https://github.com/codecsuman)
 
 ---
 
 ## ⚡ Fun Quote
 
-> "Deploying dreams into production." 😎
+> "Deploying dreams into production." 😎  
 > Coffee → Code → Commit → Deploy ☕🚀
