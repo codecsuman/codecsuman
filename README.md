@@ -147,23 +147,12 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=codecsuman&theme=onedark&no-frame=true&row=1&margin-w=10" 
-    alt="GitHub Profile Trophies"
-  />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
     alt="Suman Jhanp's GitHub Stats"
   />
   <img 
