@@ -10,13 +10,12 @@
 ---
 
 ## 🚀 About Me
-
-- 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)
-- 💻 Full Stack Developer skilled in MERN, REST APIs & Cloud Deployment
-- 🧠 Strong in Data Structures & Object-Oriented Programming
-- ☁ Experienced with deployment using Vercel & Render
-- 📍 Kolkata, India
-- 🌱 Currently learning **Backend Scaling & System Design**
+- 🎓 B.Tech IT @ RCC Institute of Information Technology (2022–2026)  
+- 💻 MERN Stack Developer & Backend Engineer  
+- ☁ Experience with Vercel, Render & Cloud Deployments  
+- 🧠 Strong in DSA & OOP  
+- 📍 Kolkata, India  
+- 🌱 Learning System Design & Scalability
 
 ---
 
@@ -25,6 +24,7 @@
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 
@@ -49,65 +49,69 @@
 ## 📌 Featured Projects
 
 ### 🏥 Doctor Appointment Booking System (MERN)
-**Tech:** React, Node.js, MongoDB, Stripe, Razorpay, Cloudinary  
-✅ JWT Authentication  
-✅ Admin Dashboard & Analytics  
-✅ Appointment Scheduling  
-✅ Cloud Media Management  
-✅ Razorpay + Stripe Integration
+✅ JWT Auth | Admin Panel | Razorpay + Stripe | Cloudinary  
 
-🔗 GitHub Repo: https://github.com/codecsuman/Doctor-Appointment-Booking  
-🌐 Live Demo 1: https://full-stack-doctor-appointment-booki.vercel.app  
-🌐 Live Demo 2: https://full-stack-doctor-appointment-booki-eight.vercel.app
+🔗 **Repo:**  
+https://github.com/codecsuman/Doctor-Appointment-Booking  
+
+🚀 **Live Demo:**  
+<a href="https://full-stack-doctor-appointment-booki.vercel.app">
+<img src="https://img.shields.io/badge/Visit_App-Vercel-black?style=for-the-badge&logo=vercel">
+</a>
+<a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
+<img src="https://img.shields.io/badge/Mirror_Link-Live-blue?style=for-the-badge&logo=web">
+</a>
 
 ---
 
-### 💼 Job Portal Application (MERN)
-**Tech:** React, Express, MongoDB  
-✅ Job filtering & Search  
-✅ Employer Dashboard  
-✅ Resume Upload  
-✅ Authentication System  
+### 💼 Job Portal Application
+✅ Resume Upload | Search & Filter | Employer Dashboard  
 
-🔗 GitHub Repo: https://github.com/codecsuman/project-jobportal  
-🌐 Live Demo: https://project-jobportal-4.onrender.com/
+🔗 **Repo:**  
+https://github.com/codecsuman/project-jobportal  
+
+🚀 **Live Demo:**  
+<a href="https://project-jobportal-4.onrender.com/">
+<img src="https://img.shields.io/badge/Visit_App-Render-green?style=for-the-badge&logo=render">
+</a>
 
 ---
 
 ### 📸 Instagram Clone
-**Tech:** React, Node.js, Socket.IO  
-✅ Chat System  
-✅ Notifications  
-✅ Like & Comment  
-✅ Optimized Feed Loading  
+✅ Real-time Chat | Notifications | Post Feed  
 
-🔗 GitHub Repo 1: https://github.com/codecsuman/instragram_clone  
-🔗 GitHub Repo 2: https://github.com/codecsuman/instagram  
-🌐 Live Demo: https://instragram-clone-5.onrender.com/
+🔗 **Repos:**  
+https://github.com/codecsuman/instragram_clone  
+https://github.com/codecsuman/instagram  
+
+🚀 **Live Demo:**  
+<a href="https://instragram-clone-5.onrender.com/">
+<img src="https://img.shields.io/badge/Visit_App-Render-green?style=for-the-badge&logo=render">
+</a>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=react&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=react&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-## 🧠 Coding Profiles
+## 🔗 Coding Profiles
 
-- 🧩 GitHub: https://github.com/codecsuman  
-- 🔥 LeetCode: https://leetcode.com/u/sumanjhanp1/
+- GitHub → https://github.com/codecsuman  
+- LeetCode → https://leetcode.com/u/sumanjhanp1/
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 📧 Email: sumanjhanp1@gmail.com  
-🌍 Location: Kolkata, India
+📍 Kolkata, India  
 
 ---
 
 ## ⚡ Fun Fact
-I love debugging more than sleeping 😄
+I love building real products more than solving toy problems 😄
