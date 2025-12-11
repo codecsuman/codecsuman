@@ -126,11 +126,12 @@ Topics I explore:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (100% Visible & Working)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-godkingjay.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=tokyonight&hide_border=true"
@@ -140,7 +141,7 @@ Topics I explore:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
