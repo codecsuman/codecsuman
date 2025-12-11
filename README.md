@@ -19,7 +19,7 @@
   <a href="resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" />
   </a>
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/sumanjhanp/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -116,7 +116,7 @@
 
 ---
 
-## ✍️ Blog & Learning
+## ✍️ Blog & Learning  
 Topics I explore:  
 - MERN best practices  
 - Backend scalability  
@@ -144,6 +144,8 @@ Topics I explore:
   />
 </p>
 
+---
+
 ### 🔥 Contribution Graph  
 <p align="center">
   <img 
@@ -163,4 +165,3 @@ Topics I explore:
 ## ⚡ Fun Quote  
 > "Deploying dreams into production."  
 > Coffee → Code → Commit → Deploy 🚀
-
