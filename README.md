@@ -134,7 +134,7 @@ Topics I explore:
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=tokyonight&hide_border=true"
-    height="200"
+    height="180"
   />
 </p>
 
