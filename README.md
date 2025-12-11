@@ -126,23 +126,35 @@ Topics I explore:
 
 ---
 
-## 📊 GitHub Stats (100% Visible & Working)
+## 📊 GitHub Stats (100% Working – No API Rate Limit)
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-godkingjay.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/codecsuman?style=for-the-badge&color=blue" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/codecsuman?style=for-the-badge&color=yellow" />
+
+  <!-- Public Repos -->
+  <img src="https://img.shields.io/badge/Public%20Repos-{{repo_count}}-brightgreen?style=for-the-badge" />
+
+  <!-- Last Commit -->
+  <img src="https://img.shields.io/github/last-commit/codecsuman/codecsuman?style=for-the-badge&color=orange" />
+
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true"
-  />
+
+  <!-- Total Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/codecsuman/codecsuman?style=for-the-badge&color=purple" />
+
+  <!-- Contributors (for portfolio repos) -->
+  <img src="https://img.shields.io/github/contributors/codecsuman/instagram?style=for-the-badge" />
+
+  <!-- License badge (for sample repo) -->
+  <img src="https://img.shields.io/github/license/codecsuman/instagram?style=for-the-badge" />
+
 </p>
 
 ---
