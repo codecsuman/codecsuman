@@ -126,7 +126,7 @@ Topics I explore:
 
 ---
 
-## 📊 GitHub Stats (100% Working – No API Rate Limit)
+## 📊 GitHub Stats 
 
 <p align="center">
 
