@@ -10,8 +10,8 @@
   <a href="https://github.com/codecsuman">
     <img src="https://img.shields.io/badge/GitHub-codecsuman-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/u/amanna307/">
-    <img src="https://img.shields.io/badge/LeetCode-amanna307-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="mailto:sumanjhanp1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
@@ -19,15 +19,13 @@
   <a href="resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" />
   </a>
-  <a href="https://www.linkedin.com/in/suman-jhanp">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=codecsuman&label=Profile+Views&color=00C2FF&style=flat-square"
-  />
+  <img src="https://komarev.com/ghpvc/?username=codecsuman&label=Profile+Views&color=00C2FF&style=flat-square" />
 </p>
 
 ---
@@ -50,8 +48,8 @@
 
 ## 🧩 LeetCode Stats
 <p align="center">
-  <a href="https://leetcode.com/u/amanna307/">
-    <img src="https://leetcard.jacoblin.cool/amanna307?theme=dark&font=Fira+Code&ext=contest" />
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
   </a>
 </p>
 
