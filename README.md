@@ -1,15 +1,40 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
+<!-- GLASS CTA BUTTON -->
+<p align="center">
+  <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app"
+     style="
+       display:inline-block;
+       margin-top:14px;
+       padding:14px 38px;
+       border-radius:16px;
+       background:rgba(0,194,255,0.18);
+       backdrop-filter:blur(14px);
+       -webkit-backdrop-filter:blur(14px);
+       border:1px solid rgba(0,194,255,0.45);
+       color:#00C2FF;
+       font-weight:600;
+       font-size:18px;
+       text-decoration:none;
+       box-shadow:0 0 30px rgba(0,194,255,0.4);
+       transition:all .35s ease;
+     "
+     onmouseover="this.style.boxShadow='0 0 65px rgba(0,194,255,1)'"
+     onmouseout="this.style.boxShadow='0 0 30px rgba(0,194,255,0.4)'"
+  >
+    🚀 Visit My Portfolio
+  </a>
+</p>
+
+<!-- TYPING INTRO -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" 
   />
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Website-00C2FF?style=for-the-badge&logo=vercel" />
-  </a>
   <a href="https://github.com/codecsuman">
     <img src="https://img.shields.io/badge/GitHub-codecsuman-000?style=for-the-badge&logo=github" />
   </a>
@@ -39,7 +64,7 @@
 - 📍 Kolkata, India  
 - 🎯 Backend-first **Full Stack Developer**  
 - ☁ Deployment: **Vercel, Render**  
-- 🧠 Strong in **DSA, OOP, System Design**  
+- 🧠 Strong in **DSA, OOP, System Design**
 
 > Passionate about building scalable, secure, and production-ready web applications.
 
