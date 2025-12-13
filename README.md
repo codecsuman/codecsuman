@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
-<!-- TOP PORTFOLIO CTA -->
+<!-- GLASS CTA BUTTON -->
 <p align="center">
   <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app"
      style="
@@ -81,7 +81,9 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
+  </a>
 </p>
 
 ---
@@ -107,6 +109,8 @@
 ---
 
 ### 💼 Job Portal Application
+- **Features:** Resume upload, employer dashboard, job filtering  
+
 <p>
   <a href="https://github.com/codecsuman/project-jobportal">
     <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge" />
@@ -118,48 +122,49 @@
 
 ---
 
+### 📸 Instagram Clone
+- **Tech:** MERN, Socket.IO  
+- **Features:** Real-time chat, posts, notifications  
+
+<p>
+  <a href="https://github.com/codecsuman/instragram_clone">
+    <img src="https://img.shields.io/badge/Frontend_Repo-GitHub-black?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/codecsuman/instagram">
+    <img src="https://img.shields.io/badge/Backend_Repo-GitHub-black?style=for-the-badge" />
+  </a>
+  <a href="https://instragram-clone-5.onrender.com">
+    <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge&logo=render" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/codecsuman?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/codecsuman?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/codecsuman/codecsuman?style=for-the-badge&color=orange" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-<p>
-📧 <b>Email:</b> sumanjhanp1@gmail.com<br/>
-💼 <b>LinkedIn:</b> https://www.linkedin.com/in/sumanjhanp/<br/>
-🧑‍💻 <b>GitHub:</b> https://github.com/codecsuman
-</p>
-
-<!-- CONTACT PORTFOLIO BUTTON -->
-<p>
-🌍 <b>Portfolio</b><br/><br/>
-<a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app"
-   style="
-     display:inline-block;
-     padding:12px 32px;
-     border-radius:14px;
-     background:rgba(0,194,255,0.18);
-     backdrop-filter:blur(12px);
-     -webkit-backdrop-filter:blur(12px);
-     border:1px solid rgba(0,194,255,0.45);
-     color:#00C2FF;
-     font-weight:600;
-     font-size:16px;
-     text-decoration:none;
-     box-shadow:0 0 26px rgba(0,194,255,0.4);
-     transition:all .35s ease;
-   "
-   onmouseover="this.style.boxShadow='0 0 55px rgba(0,194,255,1)'"
-   onmouseout="this.style.boxShadow='0 0 26px rgba(0,194,255,0.4)'"
->
-  🚀 Open Portfolio
-</a>
-</p>
+- 📧 **Email:** sumanjhanp1@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sumanjhanp/  
+- 🧑‍💻 **GitHub:** https://github.com/codecsuman  
+- 🌍 **Portfolio:** https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app  
+- 📍 **Location:** Kolkata, India  
 
 ---
 
