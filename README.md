@@ -107,24 +107,8 @@
 
 ---
 
-## 📜 Certifications
-- Full Stack Web Development  
-- DSA (Java)  
-- Cloud Computing Basics  
-- Git & GitHub  
-- SQL & Database Engineering  
 
----
 
-## ✍️ Blog & Learning  
-Topics I explore:  
-- MERN best practices  
-- Backend scalability  
-- DSA patterns  
-- System design  
-- Debugging & optimization  
-
----
 
 ## 📊 GitHub Stats 
 
