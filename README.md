@@ -2,11 +2,14 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend+Focused+Developer;System+Design+Enthusiast" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" 
   />
 </p>
 
 <p align="center">
+  <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-00C2FF?style=for-the-badge&logo=vercel" />
+  </a>
   <a href="https://github.com/codecsuman">
     <img src="https://img.shields.io/badge/GitHub-codecsuman-000?style=for-the-badge&logo=github" />
   </a>
@@ -31,15 +34,19 @@
 ---
 
 ## ✨ About Me
-- 🎓 **B.Tech IT (2022–2026)** — RCC Institute of Information Technology  
+
+- 🎓 **B.Tech in Information Technology (2022–2026)** — RCC Institute of Information Technology  
 - 📍 Kolkata, India  
-- 🎯 Backend-first Full Stack Developer  
-- ☁ Deployment: Vercel, Render  
-- 🧠 Strong in DSA, OOP, System Design  
+- 🎯 Backend-first **Full Stack Developer**  
+- ☁ Deployment: **Vercel, Render**  
+- 🧠 Strong in **DSA, OOP, System Design**  
+
+> Passionate about building scalable, secure, and production-ready web applications.
 
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,react,next,node,express,mongodb,mysql,tailwind,git,postman&theme=dark" />
 </p>
@@ -47,6 +54,7 @@
 ---
 
 ## 🧩 LeetCode Stats
+
 <p align="center">
   <a href="https://leetcode.com/u/sumanjhanp1/">
     <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
@@ -57,9 +65,9 @@
 
 ## 📌 Featured Projects
 
-### 1. 🏥 Doctor Appointment Booking System  
-- **Tech:** MERN | JWT | Stripe | Cloudinary  
-- **Features:** Auth, RBAC, Payments  
+### 🏥 Doctor Appointment Booking System (MERN)
+- **Tech:** React, Node.js, MongoDB, JWT, Stripe, Cloudinary  
+- **Features:** Authentication, Role-based Access, Payments  
 
 <p>
   <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
@@ -75,8 +83,8 @@
 
 ---
 
-### 2. 💼 Job Portal  
-- **Features:** Resume upload, employer panel, job filtering  
+### 💼 Job Portal Application
+- **Features:** Resume upload, employer dashboard, job filtering  
 
 <p>
   <a href="https://github.com/codecsuman/project-jobportal">
@@ -89,8 +97,8 @@
 
 ---
 
-### 3. 📸 Instagram Clone  
-- **Tech:** MERN | Socket.IO  
+### 📸 Instagram Clone
+- **Tech:** MERN, Socket.IO  
 - **Features:** Real-time chat, posts, notifications  
 
 <p>
@@ -107,58 +115,35 @@
 
 ---
 
-
-
-
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
-
-  <!-- Followers -->
   <img src="https://img.shields.io/github/followers/codecsuman?style=for-the-badge&color=blue" />
-
-  <!-- Stars -->
   <img src="https://img.shields.io/github/stars/codecsuman?style=for-the-badge&color=yellow" />
-
-  <!-- Public Repos -->
-  <img src="https://img.shields.io/badge/Public%20Repos-{{repo_count}}-brightgreen?style=for-the-badge" />
-
-  <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/codecsuman/codecsuman?style=for-the-badge&color=orange" />
-
-</p>
-
-<p align="center">
-
-  <!-- Total Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/codecsuman/codecsuman?style=for-the-badge&color=purple" />
-
-  <!-- Contributors (for portfolio repos) -->
-  <img src="https://img.shields.io/github/contributors/codecsuman/instagram?style=for-the-badge" />
-
-  <!-- License badge (for sample repo) -->
-  <img src="https://img.shields.io/github/license/codecsuman/instagram?style=for-the-badge" />
-
 </p>
 
 ---
 
-### 🔥 Contribution Graph  
+### 🔥 Contribution Graph
+
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=tokyo-night&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact Me
-- **Email:** sumanjhanp1@gmail.com  
-- **GitHub:** https://github.com/codecsuman  
-- **Location:** Kolkata, India  
+
+- 📧 **Email:** sumanjhanp1@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sumanjhanp/  
+- 🧑‍💻 **GitHub:** https://github.com/codecsuman  
+- 🌍 **Portfolio:** https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app  
+- 📍 **Location:** Kolkata, India  
 
 ---
 
-## ⚡ Fun Quote  
-> "Deploying dreams into production."  
-> Coffee → Code → Commit → Deploy 🚀
+## ⚡ Fun Quote
+
+> **"Deploying dreams into production."**  
+> Coffee ☕ → Code 💻 → Commit 🔁 → Deploy 🚀
