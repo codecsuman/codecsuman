@@ -1,68 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
-<!-- 🚀 FIXED ANIMATED PORTFOLIO CTA (GITHUB SAFE) -->
 <p align="center">
   <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app" target="_blank">
-    <svg width="320" height="70" viewBox="0 0 320 70"
-      xmlns="http://www.w3.org/2000/svg">
-
-    <defs>
-        <!-- Glow -->
-        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-          <feGaussianBlur stdDeviation="4" result="blur"/>
-          <feMerge>
-            <feMergeNode in="blur"/>
-            <feMergeNode in="SourceGraphic"/>
-          </feMerge>
-        </filter>
-
-        <!-- Shimmer -->
-        <linearGradient id="shine" gradientUnits="userSpaceOnUse"
-          x1="-320" y1="0" x2="0" y2="0">
-          <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-          <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
-          <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-          <animate attributeName="x1" from="-320" to="320" dur="2.8s" repeatCount="indefinite"/>
-          <animate attributeName="x2" from="0" to="640" dur="2.8s" repeatCount="indefinite"/>
-        </linearGradient>
-      </defs>
-
-      <!-- Button Base -->
-      <rect x="5" y="5" width="310" height="60" rx="18"
-        fill="#00C2FF" fill-opacity="0.18"
-        stroke="#00C2FF" stroke-opacity="0.7"
-        stroke-width="1.5"
-        filter="url(#glow)">
-        <animate attributeName="stroke-opacity"
-          values="0.4;1;0.4"
-          dur="2.2s"
-          repeatCount="indefinite"/>
-      </rect>
-
-      <!-- Shimmer Overlay -->
-      <rect x="5" y="5" width="310" height="60" rx="18"
-        fill="url(#shine)"/>
-
-      <!-- Text -->
-      <text x="160" y="44"
-        text-anchor="middle"
-        font-size="20"
-        font-weight="600"
-        fill="#00C2FF"
-        font-family="Segoe UI, Arial, sans-serif">
-        🚀 Visit My Portfolio
-      </text>
-
-    </svg>
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" />
 </p>
 
-<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/codecsuman">
     <img src="https://img.shields.io/badge/GitHub-codecsuman-black?style=for-the-badge&logo=github" />
@@ -92,7 +39,7 @@
 - ☁ Deployment: **Vercel, Render**  
 - 🧠 Strong in **DSA, OOP, System Design**
 
-> Passionate about building scalable, secure, production-ready web apps.
+> Passionate about building scalable, secure, production-ready web applications.
 
 ---
 
@@ -123,7 +70,7 @@
 ---
 
 ### 💼 Job Portal Application
-- Resume upload, employer dashboard, filtering  
+- Resume upload, employer dashboard, job filtering  
 
 🔗 https://github.com/codecsuman/project-jobportal
 
@@ -148,8 +95,8 @@
 ## 📫 Contact
 
 - 📧 Email: **sumanjhanp1@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/sumanjhanp**  
-- 🌍 Portfolio: **portfolio-kpwnz9t5f-codecsumans-projects.vercel.app**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sumanjhanp/**  
+- 🌍 Portfolio: **https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app**
 
 ---
 
