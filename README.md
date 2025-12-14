@@ -1,51 +1,68 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
-<!-- GLASS CTA BUTTON -->
+<!-- 🔥 ANIMATED PORTFOLIO CTA (GITHUB SAFE) -->
 <p align="center">
-  <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app"
-     style="
-       display:inline-block;
-       margin-top:14px;
-       padding:14px 38px;
-       border-radius:16px;
-       background:rgba(0,194,255,0.18);
-       backdrop-filter:blur(14px);
-       -webkit-backdrop-filter:blur(14px);
-       border:1px solid rgba(0,194,255,0.45);
-       color:#00C2FF;
-       font-weight:600;
-       font-size:18px;
-       text-decoration:none;
-       box-shadow:0 0 30px rgba(0,194,255,0.4);
-       transition:all .35s ease;
-     "
-     onmouseover="this.style.boxShadow='0 0 65px rgba(0,194,255,1)'"
-     onmouseout="this.style.boxShadow='0 0 30px rgba(0,194,255,0.4)'"
-  >
-    🚀 Visit My Portfolio
+  <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app" target="_blank">
+    <svg width="320" height="70" viewBox="0 0 320 70" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="6" result="blur"/>
+          <feMerge>
+            <feMergeNode in="blur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+
+        <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+          <stop offset="50%" stop-color="rgba(255,255,255,0.35)"/>
+          <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+          <animate attributeName="x1" from="-100%" to="100%" dur="2.5s" repeatCount="indefinite"/>
+          <animate attributeName="x2" from="0%" to="200%" dur="2.5s" repeatCount="indefinite"/>
+        </linearGradient>
+      </defs>
+
+      <rect x="5" y="5" rx="18" ry="18" width="310" height="60"
+        fill="rgba(0,194,255,0.18)"
+        stroke="rgba(0,194,255,0.6)"
+        stroke-width="1.5"
+        filter="url(#glow)">
+        <animate attributeName="stroke-opacity"
+          values="0.4;1;0.4"
+          dur="2.2s"
+          repeatCount="indefinite"/>
+      </rect>
+
+      <rect x="5" y="5" rx="18" ry="18" width="310" height="60"
+        fill="url(#shine)"/>
+
+      <text x="160" y="43"
+        text-anchor="middle"
+        font-size="20"
+        font-weight="600"
+        fill="#00C2FF"
+        font-family="Segoe UI, Arial, sans-serif">
+        🚀 Visit My Portfolio
+      </text>
+    </svg>
   </a>
 </p>
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/codecsuman">
-    <img src="https://img.shields.io/badge/GitHub-codecsuman-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-codecsuman-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://leetcode.com/u/sumanjhanp1/">
     <img src="https://img.shields.io/badge/LeetCode-sumanjhanp1-orange?style=for-the-badge&logo=leetcode" />
   </a>
   <a href="mailto:sumanjhanp1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe" />
   </a>
   <a href="https://www.linkedin.com/in/sumanjhanp/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
@@ -66,7 +83,7 @@
 - ☁ Deployment: **Vercel, Render**  
 - 🧠 Strong in **DSA, OOP, System Design**
 
-> Passionate about building scalable, secure, and production-ready web applications.
+> Passionate about building scalable, secure, production-ready web apps.
 
 ---
 
@@ -81,9 +98,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/sumanjhanp1/">
-    <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=contest" />
 </p>
 
 ---
@@ -91,66 +106,29 @@
 ## 📌 Featured Projects
 
 ### 🏥 Doctor Appointment Booking System (MERN)
-- **Tech:** React, Node.js, MongoDB, JWT, Stripe, Cloudinary  
-- **Features:** Authentication, Role-based Access, Payments  
+- React, Node.js, MongoDB, JWT, Stripe
+- Role-based access, payments, admin panel
 
-<p>
-  <a href="https://github.com/codecsuman/Doctor-Appointment-Booking">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge" />
-  </a>
-  <a href="https://full-stack-doctor-appointment-booki.vercel.app">
-    <img src="https://img.shields.io/badge/User_App-Vercel-black?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://full-stack-doctor-appointment-booki-eight.vercel.app">
-    <img src="https://img.shields.io/badge/Admin_&_Doctor-Vercel-blue?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+🔗 https://github.com/codecsuman/Doctor-Appointment-Booking
 
 ---
 
 ### 💼 Job Portal Application
-- **Features:** Resume upload, employer dashboard, job filtering  
+- Resume upload, employer dashboard, filtering
 
-<p>
-  <a href="https://github.com/codecsuman/project-jobportal">
-    <img src="https://img.shields.io/badge/Source_Code-GitHub-black?style=for-the-badge" />
-  </a>
-  <a href="https://project-jobportal-4.onrender.com">
-    <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge&logo=render" />
-  </a>
-</p>
+🔗 https://github.com/codecsuman/project-jobportal
 
 ---
 
 ### 📸 Instagram Clone
-- **Tech:** MERN, Socket.IO  
-- **Features:** Real-time chat, posts, notifications  
+- MERN + Socket.IO
+- Real-time chat & notifications
 
-<p>
-  <a href="https://github.com/codecsuman/instragram_clone">
-    <img src="https://img.shields.io/badge/Frontend_Repo-GitHub-black?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/codecsuman/instagram">
-    <img src="https://img.shields.io/badge/Backend_Repo-GitHub-black?style=for-the-badge" />
-  </a>
-  <a href="https://instragram-clone-5.onrender.com">
-    <img src="https://img.shields.io/badge/Live_App-Render-green?style=for-the-badge&logo=render" />
-  </a>
-</p>
+🔗 https://github.com/codecsuman/instragram_clone
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/codecsuman?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/codecsuman?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/last-commit/codecsuman/codecsuman?style=for-the-badge&color=orange" />
-</p>
-
----
-
-### 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=tokyo-night&hide_border=true" />
@@ -158,17 +136,12 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 **Email:** sumanjhanp1@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sumanjhanp/  
-- 🧑‍💻 **GitHub:** https://github.com/codecsuman  
-- 🌍 **Portfolio:** https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app  
-- 📍 **Location:** Kolkata, India  
+- 📧 Email: **sumanjhanp1@gmail.com**  
+- 💼 LinkedIn: **linkedin.com/in/sumanjhanp**  
+- 🌍 Portfolio: **portfolio-kpwnz9t5f-codecsumans-projects.vercel.app**
 
 ---
 
-## ⚡ Fun Quote
-
-> **"Deploying dreams into production."**  
-> Coffee ☕ → Code 💻 → Commit 🔁 → Deploy 🚀
+> **“Deploying dreams into production.”** ☕💻🚀
