@@ -1,15 +1,25 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
+<!-- PORTFOLIO BUTTON -->
 <p align="center">
   <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
+<!-- RESUME BUTTON -->
+<p align="center">
+  <a href="resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+<!-- TYPING INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Backend-Focused+Developer;System+Design+Enthusiast" />
 </p>
 
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/codecsuman">
     <img src="https://img.shields.io/badge/GitHub-codecsuman-black?style=for-the-badge&logo=github" />
