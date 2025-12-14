@@ -1,30 +1,36 @@
 <h1 align="center">Hi 👋, I'm Suman Jhanp</h1>
 
-<!-- 🔥 ANIMATED PORTFOLIO CTA (GITHUB SAFE) -->
+<!-- 🚀 FIXED ANIMATED PORTFOLIO CTA (GITHUB SAFE) -->
 <p align="center">
   <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app" target="_blank">
-    <svg width="320" height="70" viewBox="0 0 320 70" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <filter id="glow">
-          <feGaussianBlur stdDeviation="6" result="blur"/>
+    <svg width="320" height="70" viewBox="0 0 320 70"
+      xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <!-- Glow -->
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="4" result="blur"/>
           <feMerge>
             <feMergeNode in="blur"/>
             <feMergeNode in="SourceGraphic"/>
           </feMerge>
         </filter>
 
-        <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
-          <stop offset="50%" stop-color="rgba(255,255,255,0.35)"/>
-          <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-          <animate attributeName="x1" from="-100%" to="100%" dur="2.5s" repeatCount="indefinite"/>
-          <animate attributeName="x2" from="0%" to="200%" dur="2.5s" repeatCount="indefinite"/>
+        <!-- Shimmer -->
+        <linearGradient id="shine" gradientUnits="userSpaceOnUse"
+          x1="-320" y1="0" x2="0" y2="0">
+          <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+          <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+          <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+          <animate attributeName="x1" from="-320" to="320" dur="2.8s" repeatCount="indefinite"/>
+          <animate attributeName="x2" from="0" to="640" dur="2.8s" repeatCount="indefinite"/>
         </linearGradient>
       </defs>
 
-      <rect x="5" y="5" rx="18" ry="18" width="310" height="60"
-        fill="rgba(0,194,255,0.18)"
-        stroke="rgba(0,194,255,0.6)"
+      <!-- Button Base -->
+      <rect x="5" y="5" width="310" height="60" rx="18"
+        fill="#00C2FF" fill-opacity="0.18"
+        stroke="#00C2FF" stroke-opacity="0.7"
         stroke-width="1.5"
         filter="url(#glow)">
         <animate attributeName="stroke-opacity"
@@ -33,10 +39,12 @@
           repeatCount="indefinite"/>
       </rect>
 
-      <rect x="5" y="5" rx="18" ry="18" width="310" height="60"
+      <!-- Shimmer Overlay -->
+      <rect x="5" y="5" width="310" height="60" rx="18"
         fill="url(#shine)"/>
 
-      <text x="160" y="43"
+      <!-- Text -->
+      <text x="160" y="44"
         text-anchor="middle"
         font-size="20"
         font-weight="600"
@@ -44,6 +52,7 @@
         font-family="Segoe UI, Arial, sans-serif">
         🚀 Visit My Portfolio
       </text>
+
     </svg>
   </a>
 </p>
@@ -106,23 +115,23 @@
 ## 📌 Featured Projects
 
 ### 🏥 Doctor Appointment Booking System (MERN)
-- React, Node.js, MongoDB, JWT, Stripe
-- Role-based access, payments, admin panel
+- React, Node.js, MongoDB, JWT, Stripe  
+- Role-based access, payments, admin panel  
 
 🔗 https://github.com/codecsuman/Doctor-Appointment-Booking
 
 ---
 
 ### 💼 Job Portal Application
-- Resume upload, employer dashboard, filtering
+- Resume upload, employer dashboard, filtering  
 
 🔗 https://github.com/codecsuman/project-jobportal
 
 ---
 
 ### 📸 Instagram Clone
-- MERN + Socket.IO
-- Real-time chat & notifications
+- MERN + Socket.IO  
+- Real-time chat & notifications  
 
 🔗 https://github.com/codecsuman/instragram_clone
 
