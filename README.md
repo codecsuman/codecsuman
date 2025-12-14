@@ -2,7 +2,7 @@
 
 <!-- PORTFOLIO BUTTON -->
 <p align="center">
-  <a href="https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app" target="_blank">
+  <a href="https://portfolio-codecsumans-projects.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -106,7 +106,7 @@
 
 - 📧 Email: **sumanjhanp1@gmail.com**  
 - 💼 LinkedIn: **https://www.linkedin.com/in/sumanjhanp/**  
-- 🌍 Portfolio: **https://portfolio-kpwnz9t5f-codecsumans-projects.vercel.app**
+- 🌍 Portfolio: **https://portfolio-codecsumans-projects.vercel.app**
 
 ---
 
