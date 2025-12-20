@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Suman Jhanp</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#00C2FF;">Suman Jhanp</span></h1>
 
 <h3 align="center">
 🚀 Backend-Focused Full Stack Developer | MERN Stack Engineer | System Design Enthusiast
