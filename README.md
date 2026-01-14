@@ -10,12 +10,16 @@ Backend-Focused Full Stack Developer | MERN Stack | Data Analytics Enthusiast
 
 <!-- DEPLOYMENT BUTTONS -->
 <p align="center">
-  <a href="https://portfolio-codecsumans-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/▲%20Vercel-Primary%20Portfolio-black?style=for-the-badge&logo=vercel"/>
-  </a>
-  &nbsp;&nbsp;
+  <!-- Netlify Button (Purple + Pink) -->
   <a href="https://sumanjhanp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/⬢%20Netlify-Live%20Deployment-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Suman's%20Portfolio-7F3FEF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=EC4899"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- Vercel Button -->
+  <a href="https://portfolio-codecsumans-projects.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Suman's%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -175,8 +179,8 @@ Backend-Focused Full Stack Developer | MERN Stack | Data Analytics Enthusiast
 
 - 📧 Email: **sumanjhanp1@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/sumanjhanp/**
-- 🌍 Portfolio (Vercel): **https://portfolio-codecsumans-projects.vercel.app**
 - 🌍 Portfolio (Netlify): **https://sumanjhanp.netlify.app**
+- 🌍 Portfolio (Vercel): **https://portfolio-codecsumans-projects.vercel.app**
 
 ---
 
