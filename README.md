@@ -40,17 +40,14 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<!-- CLEAN ANIMATED ICON STRIP -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify&theme=dark" />
 </p>
 
-<!-- SOFT ANIMATION SEPARATOR -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-<!-- SUBTLE ANIMATED LOGOS -->
 <p align="center">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=8B5CF6"/>
   <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&animation=pulse&fill=22C55E"/>
@@ -79,8 +76,8 @@
 
 ### 🏥 Doctor Appointment Booking System
 **Tech:** MERN · JWT · Stripe · Razorpay  
-- Role-based authentication
-- Payment integration
+- Role-based authentication  
+- Payment integration  
 - Admin analytics dashboard  
 🔗 https://github.com/codecsuman/Doctor-Appointment-Booking
 
@@ -88,7 +85,7 @@
 
 ### 💼 Job Portal Application
 **Tech:** MERN Stack  
-- Resume upload & authentication
+- Resume upload & authentication  
 - Job search & employer dashboard  
 🔗 https://github.com/codecsuman/project-jobportal
 
@@ -96,7 +93,7 @@
 
 ### 📸 Instagram Clone
 **Tech:** MERN · Socket.IO  
-- Real-time chat & notifications
+- Real-time chat & notifications  
 - Responsive UI  
 🔗 https://github.com/codecsuman/instragram_clone
 
@@ -110,13 +107,33 @@
 
 ---
 
-## 📫 Contact
+## 📊 LeetCode Progress
 
-- 📧 **sumanjhanp1@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sumanjhanp/
-- 🌍 **Netlify:** https://sumanjhanp.netlify.app
-- 🌍 **Vercel:** https://portfolio-codecsumans-projects.vercel.app
+<p align="center">
+  <a href="https://leetcode.com/u/sumanjhanp1/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Inter&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/65/?title=DSA%20Progress&width=420&color=A855F7" />
+</p>
+
+> **Focus Areas:** Arrays · Strings · Linked List · Stack · Queue · Trees · Graphs · DP  
+> _Consistent daily problem-solving on LeetCode_
 
 ---
 
-<h3 align="center">☕ “Building backend systems that scale.” 💻🚀</h3>
+## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/codecsuman">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/sumanjhanp1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
