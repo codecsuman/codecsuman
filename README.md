@@ -29,28 +29,20 @@
 ---
 
 ## 🌟 About Me
+```javascript
 const suman = {
-  education: "B.Tech in Information Technology (2022–2026)",
-  college: "RCC Institute of Information Technology, Kolkata",
-  cgpa: "7.2 / 10",
-  location: "Kolkata, India",
-  role: "Backend-Focused Full Stack Developer",
-
-  tech_stack: {
-    backend: ["Node.js", "Express.js"],
-    frontend: ["React.js"],
-    database: ["MongoDB", "MySQL"],
-    full_stack: ["MERN Stack"]
-  },
-
-  data_analytics: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-  core_cs: ["Data Structures & Algorithms", "DBMS", "Operating Systems", "OOP"],
-  deployment: ["Netlify", "Vercel", "Render"],
-
-  current_focus: "Building scalable backend systems & data-driven applications",
-  goal: "Transform raw data into meaningful insights and real-world solutions"
+  🎓 education  : "B.Tech in Information Technology (2022–2026)",
+  🏛️ college    : "RCC Institute of Information Technology, Kolkata",
+  📈 cgpa       : 7.2,
+  📍 location   : "Kolkata, India",
+  💼 role       : "Backend-Focused Full Stack Developer",
+  🛠️ stack      : ["MERN", "Node.js", "Express", "MongoDB", "MySQL"],
+  📊 analytics  : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+  🧠 cs_core    : ["DSA", "DBMS", "OS", "OOP"],
+  ☁️ deployed   : ["Netlify", "Vercel", "Render"],
+  🎯 goal       : "Build scalable systems & turn raw data into meaningful insights"
 };
-
+```
 
 ---
 
