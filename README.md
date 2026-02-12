@@ -29,18 +29,19 @@
 ---
 
 ## 🌟 About Me
+
 ```javascript
 const suman = {
-  🎓 education  : "B.Tech in Information Technology (2022–2026)",
-  🏛️ college    : "RCC Institute of Information Technology, Kolkata",
-  📈 cgpa       : 7.2,
-  📍 location   : "Kolkata, India",
-  💼 role       : "Backend-Focused Full Stack Developer",
-  🛠️ stack      : ["MERN", "Node.js", "Express", "MongoDB", "MySQL"],
-  📊 analytics  : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
-  🧠 cs_core    : ["DSA", "DBMS", "OS", "OOP"],
-  ☁️ deployed   : ["Netlify", "Vercel", "Render"],
-  🎯 goal       : "Build scalable systems & turn raw data into meaningful insights"
+  education  : "🎓 B.Tech in Information Technology (2022–2026)",
+  college    : "🏛️ RCC Institute of Information Technology, Kolkata",
+  cgpa       : "📈 7.2",
+  location   : "📍 Kolkata, India",
+  role       : "💼 Backend-Focused Full Stack Developer",
+  stack      : ["⚙️ MERN", "Node.js", "Express", "MongoDB", "MySQL"],
+  analytics  : ["📊 Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+  cs_core    : ["🧠 DSA", "DBMS", "OS", "OOP"],
+  deployed   : ["☁️ Netlify", "Vercel", "Render"],
+  goal       : "🎯 Build scalable systems & turn raw data into meaningful insights"
 };
 ```
 
@@ -113,6 +114,7 @@ const suman = {
 [![Data Analytics Repo](https://img.shields.io/badge/📂_DATA__ANALYTICS-Repository-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=065F46)](https://github.com/codecsuman/DATA_ANALYTICS)
 
 </div>
+
 ```text
 📁 DATA_ANALYTICS/
 │
