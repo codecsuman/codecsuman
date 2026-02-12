@@ -1,184 +1,203 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm <span style="color:#A855F7;">Suman Jhanp</span></h1>
-<h3 align="center">Backend-Focused Full Stack Developer · MERN Stack · Data Analytics Enthusiast</h3>
+<div align="center">
 
-<br/>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:EC4899,100:06B6D4&height=200&section=header&text=Suman%20Jhanp&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=60&descSize=20&animation=fadeIn"/>
 
-<!-- BADGES / LINKS -->
-<p align="center">
-  <a href="https://sumanjhanp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Netlify-9333EA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=EC4899"/>
-  </a>
-  <a href="https://portfolio-codecsumans-projects.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-PDF-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<br/>
+<div align="center">
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Backend+%26+API+Specialist;MERN+Stack+Engineer;Data+Analyst+%26+Visualization+Expert;DSA+%26+OOP+Focused" />
-</p>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Web+Developer;⚙️+Backend+%26+API+Specialist;🧩+MERN+Stack+Engineer;📊+Data+Analyst+%26+Visualization+Expert;🧠+DSA+%26+OOP+Focused" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## ✨ About Me
+<div align="center">
 
-- 🎓 **B.Tech in Information Technology (2022 – 2026)**
-  RCC Institute of Information Technology, Kolkata · **CGPA:** 7.2
-- 💻 Backend-focused **Full Stack Developer** (MERN Stack)
-- 📊 Passionate about **Data Analytics, Cleaning & Visualization**
-- 🧠 Strong in **DSA, DBMS, OS, OOP**
-- 🐍 Building expertise in **Python · Pandas · NumPy · Matplotlib · Seaborn**
-- 🗄 Hands-on with **MySQL** for data querying and analysis
-- ☁️ Deployed applications on **Netlify, Vercel & Render**
-- 📍 **Location:** Kolkata, India
+<!-- PROFILE BADGES -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Netlify-9333EA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e)](https://sumanjhanp.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111)](https://portfolio-codecsumans-projects.vercel.app)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-codecsuman-181717?style=for-the-badge&logo=github)](https://github.com/codecsuman)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sumanjhanp1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumanjhanp1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
-> _I build scalable backend systems, clean APIs — and turn raw data into meaningful insights._
+</div>
+
+---
+
+## 🌟 About Me
+```javascript
+const suman = {
+  🎓 education  : "B.Tech in Information Technology (2022–2026)",
+  🏛️ college    : "RCC Institute of Information Technology, Kolkata",
+  📈 cgpa       : 7.2,
+  📍 location   : "Kolkata, India",
+  💼 role       : "Backend-Focused Full Stack Developer",
+  🛠️ stack      : ["MERN", "Node.js", "Express", "MongoDB", "MySQL"],
+  📊 analytics  : ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
+  🧠 cs_core    : ["DSA", "DBMS", "OS", "OOP"],
+  ☁️ deployed   : ["Netlify", "Vercel", "Render"],
+  🎯 goal       : "Build scalable systems & turn raw data into meaningful insights"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,postman,vercel,netlify&theme=dark" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Analytics-3B82F6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-F97316?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-10B981?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-Visualization-06B6D4?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-F59E0B?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### ⚡ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&fill=8B5CF6"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&animation=pulse&fill=22C55E"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&animation=spin&fill=FACC15"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&animation=pulse&fill=10B981"/>
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&fill=3B82F6"/>
-</p>
+### 🔥 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
----
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📌 Projects
+### 📊 Data Analytics
+![Python](https://img.shields.io/badge/Python-Data_Analytics-3B82F6?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3B82F6?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🏥 Doctor Appointment Booking System
-**Tech:** MERN · JWT · Stripe · Razorpay
-- Role-based authentication (Patient / Doctor / Admin)
-- Secure payment integration (Stripe & Razorpay)
-- Admin analytics dashboard
+### 🔧 Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-🔗 [github.com/codecsuman/Doctor-Appointment-Booking](https://github.com/codecsuman/Doctor-Appointment-Booking)
-
----
-
-### 💼 Job Portal Application
-**Tech:** MERN Stack
-- Resume upload & authentication
-- Job search & employer dashboard
-
-🔗 [github.com/codecsuman/project-jobportal](https://github.com/codecsuman/project-jobportal)
+</div>
 
 ---
 
-### 📸 Instagram Clone
-**Tech:** MERN · Socket.IO
-- Real-time chat & notifications
-- Fully responsive UI
+## 🚀 Featured Projects
 
-🔗 [github.com/codecsuman/instragram_clone](https://github.com/codecsuman/instragram_clone)
+<div align="center">
+
+| 🏥 Doctor Appointment System | 💼 Job Portal | 📸 Instagram Clone |
+|:---:|:---:|:---:|
+| MERN · JWT · Stripe · Razorpay | MERN Stack | MERN · Socket.IO |
+| Role-based auth (Patient/Doctor/Admin) | Resume upload & Auth | Real-time chat & Notifications |
+| Secure payment integration | Job search & Employer dashboard | Fully responsive UI |
+| [🔗 View Repo](https://github.com/codecsuman/Doctor-Appointment-Booking) | [🔗 View Repo](https://github.com/codecsuman/project-jobportal) | [🔗 View Repo](https://github.com/codecsuman/instragram_clone) |
+
+</div>
 
 ---
 
 ## 📊 Data Analytics Portfolio
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=Python+%7C+Pandas+%7C+NumPy+%7C+SQL+%7C+Data+Visualization;Learn+%E2%80%A2+Analyze+%E2%80%A2+Visualize+%E2%80%A2+Grow+%F0%9F%9A%80" />
-</p>
+<div align="center">
 
-### 🗂️ Repository Structure
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=Python+%7C+Pandas+%7C+NumPy+%7C+SQL+%7C+Visualization;Learn+%E2%80%A2+Analyze+%E2%80%A2+Visualize+%E2%80%A2+Grow+🚀" />
 
+[![Data Analytics Repo](https://img.shields.io/badge/📂_DATA__ANALYTICS-Repository-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=065F46)](https://github.com/codecsuman/DATA_ANALYTICS)
+
+</div>
 ```text
-DATA_ANALYTICS/
+📁 DATA_ANALYTICS/
 │
-├── 🐍 python
-├── 📊 pandas
-├── 🔢 Numpy and Data
-├── 📈 matplotlib
-├── 🎨 Seaborn
-├── 📓 jupyternotebook
-├── 🗄  mysql
-└── 📑 ALL_xl
+├── 🐍  python/              → Core Python for Analytics
+├── 📊  pandas/              → DataFrames, Series & Operations
+├── 🔢  Numpy and Data/      → Arrays, Broadcasting & Math
+├── 📈  matplotlib/          → Charts, Plots & Graphs
+├── 🎨  Seaborn/             → Statistical Visualizations
+├── 📓  jupyternotebook/     → Interactive Notebooks
+├── 🗄️  mysql/               → SQL Queries & Analysis
+└── 📑  ALL_xl/              → CSV & Excel File Handling
 ```
 
-### 📚 Key Learning Areas
+<div align="center">
 
-| # | Topic | Status |
-|---|-------|--------|
-| 01 | Python Basics for Data Analytics | ✅ Done |
-| 02 | NumPy Arrays (1D & 2D) | ✅ Done |
-| 03 | Pandas Series & DataFrames | ✅ Done |
-| 04 | Data Cleaning & Preprocessing | ✅ Done |
-| 05 | Handling Missing & Duplicate Data | ✅ Done |
-| 06 | Sorting, Filtering & Aggregation | ✅ Done |
-| 07 | Data Visualization Techniques | ✅ Done |
-| 08 | CSV & Excel File Handling | ✅ Done |
-| 09 | SQL Queries for Analysis | ✅ Done |
+### 📚 Learning Progress
+
+| # | 📌 Topic | Status |
+|---|----------|:------:|
+| 01 | Python Basics for Data Analytics | ✅ `Done` |
+| 02 | NumPy Arrays (1D & 2D) | ✅ `Done` |
+| 03 | Pandas Series & DataFrames | ✅ `Done` |
+| 04 | Data Cleaning & Preprocessing | ✅ `Done` |
+| 05 | Handling Missing & Duplicate Data | ✅ `Done` |
+| 06 | Sorting, Filtering & Aggregation | ✅ `Done` |
+| 07 | Data Visualization Techniques | ✅ `Done` |
+| 08 | CSV & Excel File Handling | ✅ `Done` |
+| 09 | SQL Queries for Analysis | ✅ `Done` |
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9&border_radius=12" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=F97316&currStreakLabel=A855F7&border_radius=12" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&border_radius=12" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=06B6D4&area=true&area_color=7C3AED" />
+
+</div>
 
 ---
 
 ## 🧩 LeetCode Progress
 
-<p align="center">
-  <a href="https://leetcode.com/u/sumanjhanp1/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Inter&ext=heatmap" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://progress-bar.dev/65/?title=DSA%20Progress&width=420&color=A855F7" />
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-sumanjhanp1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumanjhanp1/)
 
-> **Focus Areas:** Arrays · Strings · Linked List · Stack · Queue · Trees · Graphs · DP
-> _Consistent daily problem-solving on LeetCode_
+<img src="https://leetcard.jacoblin.cool/sumanjhanp1?theme=dark&font=Fira+Code&ext=heatmap&border_radius=12" />
+
+![DSA Progress](https://progress-bar.dev/65/?title=DSA%20Progress&width=480&color=A855F7)
+
+</div>
+
+> **🎯 Focus Areas:** `Arrays` · `Strings` · `Linked List` · `Stack` · `Queue` · `Trees` · `Graphs` · `Dynamic Programming`
+>
+> _📅 Consistent daily problem-solving on LeetCode_
 
 ---
 
-## 📫 Contact
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/codecsuman">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://leetcode.com/u/sumanjhanp1/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumanjhanp1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=netlify&logoColor=white)](https://sumanjhanp.netlify.app/)
 
 <br/>
 
-<p align="center">
-  ⭐ <strong>If you find my work useful, please give it a star!</strong> ⭐
-</p>
+⭐ **If you find my work useful, consider giving it a star!** ⭐
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Learn%20•%20Analyze%20•%20Visualize%20•%20Grow%20🚀&fontSize=18&fontColor=ffffff&animation=twinkling"/>
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:A855F7,100:EC4899&height=130&section=footer&text=Learn%20•%20Analyze%20•%20Build%20•%20Grow%20🚀&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+
+</div>
