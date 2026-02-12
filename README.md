@@ -44,7 +44,7 @@ const suman = {
   🎯 goal: "Build scalable systems & turn raw data into meaningful insights"
 };
 
-
+```
 ---
 
 ## 🛠️ Tech Stack & Skills
