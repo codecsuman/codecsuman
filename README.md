@@ -122,12 +122,14 @@ const suman = {
 
 ## 📈 GitHub Stats
 
+<!-- ✅ These SVGs are auto-generated daily by GitHub Actions -->
+<!-- ✅ First time: Go to Actions tab → "Update GitHub Stats Cards" → Run workflow -->
+
 <div align="center">
 
-![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=codecsuman&theme=tokyonight&hide_border=true)
+<img src="assets/stats.svg" alt="Suman's GitHub Stats" height="180"/>
+&nbsp;&nbsp;
+<img src="assets/top-langs.svg" alt="Top Languages" height="180"/>
 
 </div>
 
