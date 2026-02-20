@@ -118,22 +118,7 @@ const suman = {
 | 08 | CSV & Excel File Handling | ✅ `Done` |
 | 09 | SQL Queries for Analysis | ✅ `Done` |
 
----
 
-## 📈 GitHub Stats
-
-<!-- ✅ These SVGs are auto-generated daily by GitHub Actions -->
-<!-- ✅ First time: Go to Actions tab → "Update GitHub Stats Cards" → Run workflow -->
-
-<div align="center">
-
-<img src="assets/stats.svg" alt="Suman's GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="assets/top-langs.svg" alt="Top Languages" height="180"/>
-
-</div>
-
----
 
 ## 🧩 LeetCode Progress
 
