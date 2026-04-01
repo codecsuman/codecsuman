@@ -19,9 +19,9 @@
 const suman = {
   education : "🎓 B.Tech in Information Technology (2022–2026)",
   college   : "🏛️ RCC Institute of Information Technology, Kolkata",
-  cgpa      : "📈 7.2",
+  cgpa      : "📈 7.2 (Up to 7th Semester)",
   location  : "📍 Kolkata, India",
-  role      : "💼 Backend-Focused Full Stack Developer & Aspiring Data Analyst",
+  role      : "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
   stack     : ["⚙️ MERN", "Node.js", "Express", "MongoDB", "MySQL"],
   analytics : ["📊 Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Power BI", "Excel"],
   cs_core   : ["🧠 DSA", "DBMS", "OS", "OOP"],
@@ -37,7 +37,6 @@ const suman = {
 ### ⚡ Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,6 +49,8 @@ const suman = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -59,7 +60,6 @@ const suman = {
 
 ### 📊 Data Analytics & BI
 
-![Python](https://img.shields.io/badge/Python-Data_Analytics-3B82F6?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -74,9 +74,52 @@ const suman = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 🚀 Full Stack Projects (MERN)
+
+> Scalable, secure, and production-ready web applications with authentication, real-time features, and payment integrations.
+
+### 🏥 Doctor Appointment Booking Platform
+[![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/Doctor-Appointment-Booking)
+
+- 🏗️ Designed and developed a **scalable full-stack healthcare platform** using MongoDB, Express.js, React.js, and Node.js
+- 🔐 Implemented **secure authentication & authorization** using JWT and bcrypt for user data protection
+- ⚡ Built **RESTful APIs** and real-time appointment scheduling system improving booking efficiency by **40%**
+- 💳 Integrated **Stripe & Razorpay** payment gateways for secure online transactions
+- 🖥️ Developed **role-based admin dashboard** for managing users, doctors, appointments, and workflows
+
+**Tech:** `MongoDB` · `Express.js` · `React.js` · `Node.js` · `JWT` · `bcrypt` · `Stripe` · `Razorpay`
+
+---
+
+### 💼 Job Portal Web Application
+[![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/project-jobportal)
+
+- 🔎 Developed a full-stack job portal with **user authentication, job search, filtering, and application tracking**
+- 🛠️ Designed **scalable RESTful APIs** and optimized database queries for efficient performance
+- 📊 Implemented **dynamic filtering & search** features improving user experience by **30%**
+- 📱 Built **responsive frontend** using React.js and Tailwind CSS ensuring cross-device compatibility
+- 📄 Enabled **resume upload & employer dashboard** for end-to-end recruitment workflow
+
+**Tech:** `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Tailwind CSS` · `JWT` · `Vercel`
+
+---
+
+### 📸 Instagram Clone
+[![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/instragram_clone)
+
+- 📱 Developed a **full-stack social media application** with authentication, posts, likes, comments, and user profiles
+- 💬 Implemented **real-time communication** using Socket.IO for chat and live notifications
+- ☁️ Integrated **Cloudinary** for media upload, storage, and optimized delivery
+- ⚙️ Optimized **frontend performance** and state management for improved user experience
+
+**Tech:** `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Socket.IO` · `Cloudinary` · `JWT`
 
 ---
 
@@ -121,50 +164,6 @@ const suman = {
 - 🖥️ Developed an **interactive HTML dashboard** for reporting
 
 **Tech:** `Python` · `SQLite` · `Pandas` · `Matplotlib` · `Seaborn` · `HTML Dashboard`
-
----
-
-### 📂 Data Analytics Repository
-
-[![Data Analytics Repo](https://img.shields.io/badge/📂_DATA__ANALYTICS-Repository-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=065F46)](https://github.com/codecsuman/DATA_ANALYTICS)
-
-```text
-📁 DATA_ANALYTICS/
-│
-├── 🐍 python/           → Core Python for Analytics
-├── 📊 pandas/           → DataFrames, Series & Operations
-├── 🔢 Numpy and Data/   → Arrays, Broadcasting & Math
-├── 📈 matplotlib/       → Charts, Plots & Graphs
-├── 🎨 Seaborn/          → Statistical Visualizations
-├── 📓 jupyternotebook/  → Interactive Notebooks
-├── 🗄️  mysql/            → SQL Queries & Analysis
-└── 📑 ALL_xl/           → CSV & Excel File Handling
-```
-
-### 📚 Learning Progress
-
-| # | 📌 Topic | Status |
-|---|----------|:------:|
-| 01 | Python Basics for Data Analytics | ✅ `Done` |
-| 02 | NumPy Arrays (1D & 2D) | ✅ `Done` |
-| 03 | Pandas Series & DataFrames | ✅ `Done` |
-| 04 | Data Cleaning & Preprocessing | ✅ `Done` |
-| 05 | Handling Missing & Duplicate Data | ✅ `Done` |
-| 06 | Sorting, Filtering & Aggregation | ✅ `Done` |
-| 07 | Data Visualization Techniques | ✅ `Done` |
-| 08 | CSV & Excel File Handling | ✅ `Done` |
-| 09 | SQL Queries for Analysis | ✅ `Done` |
-
----
-
-## 🚀 Full Stack Projects
-
-| 🏥 Doctor Appointment System | 💼 Job Portal | 📸 Instagram Clone |
-|:---:|:---:|:---:|
-| MERN · JWT · Stripe · Razorpay | MERN Stack | MERN · Socket.IO |
-| Role-based auth (Patient/Doctor/Admin) | Resume upload & Auth | Real-time chat & Notifications |
-| Secure payment integration | Job search & Employer dashboard | Fully responsive UI |
-| [🔗 View Repo](https://github.com/codecsuman/Doctor-Appointment-Booking) | [🔗 View Repo](https://github.com/codecsuman/project-jobportal) | [🔗 View Repo](https://github.com/codecsuman/instragram_clone) |
 
 ---
 
