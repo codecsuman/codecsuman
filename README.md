@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Netlify-9333EA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e)](https://sumanjhanp.netlify.app/)
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111)](https://portfolio-codecsumans-projects.vercel.app)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](resume.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-codecsuman-181717?style=for-the-badge&logo=github)](https://github.com/codecsuman)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sumanjhanp1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumanjhanp1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suman-jhanp-235a622b8/)
