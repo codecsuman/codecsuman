@@ -2,6 +2,8 @@
 
 # 👋 Hi, I'm Suman Jhanp
 
+### Full-Stack MERN Developer & Aspiring Data Analyst
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Netlify-9333EA?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a2e)](https://sumanjhanp.netlify.app/)
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111)](https://portfolio-codecsumans-projects.vercel.app)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Resume.pdf)
@@ -11,7 +13,7 @@
 
 </div>
 
----
+<br>
 
 ## 🌟 About Me
 
@@ -30,12 +32,11 @@ const suman = {
 };
 ```
 
----
+<br>
 
 ## 🛠️ Tech Stack & Skills
 
 ### ⚡ Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,7 +45,6 @@ const suman = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔥 Frontend & Backend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -53,13 +53,11 @@ const suman = {
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### 🗄️ Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📊 Data Analytics & BI
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +68,6 @@ const suman = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🔧 Tools & Deployment
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -79,7 +76,7 @@ const suman = {
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
+<br>
 
 ## 🚀 Full Stack Projects (MERN)
 
@@ -91,9 +88,9 @@ const suman = {
 
 - 🏗️ Designed and developed a **scalable full-stack healthcare platform** using MongoDB, Express.js, React.js, and Node.js
 - 🔐 Implemented **secure authentication & authorization** using JWT and bcrypt for user data protection
-- ⚡ Built **RESTful APIs** and real-time appointment scheduling system improving booking efficiency by **40%**
+- ⚡ Built **RESTful APIs** and a real-time appointment scheduling system, improving booking efficiency by **40%**
 - 💳 Integrated **Stripe & Razorpay** payment gateways for secure online transactions
-- 🖥️ Developed **role-based admin dashboard** for managing users, doctors, appointments, and workflows
+- 🖥️ Developed a **role-based admin dashboard** for managing users, doctors, appointments, and workflows
 
 **Tech:** `MongoDB` · `Express.js` · `React.js` · `Node.js` · `JWT` · `bcrypt` · `Stripe` · `Razorpay`
 
@@ -105,25 +102,26 @@ const suman = {
 
 - 🔎 Developed a full-stack job portal with **user authentication, job search, filtering, and application tracking**
 - 🛠️ Designed **scalable RESTful APIs** and optimized database queries for efficient performance
-- 📊 Implemented **dynamic filtering & search** features improving user experience by **30%**
-- 📱 Built **responsive frontend** using React.js and Tailwind CSS ensuring cross-device compatibility
-- 📄 Enabled **resume upload & employer dashboard** for end-to-end recruitment workflow
+- 📊 Implemented **dynamic filtering & search** features, improving user experience by **30%**
+- 📱 Built a **responsive frontend** using React.js and Tailwind CSS, ensuring cross-device compatibility
+- 📄 Enabled **resume upload & employer dashboard** for an end-to-end recruitment workflow
 
 **Tech:** `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Tailwind CSS` · `JWT` · `Vercel`
 
 ---
 
-### 📸 Instagram Clone
-[![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/instragram_clone)
+### 📸 Instagram
+[![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/instagram)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://instagram-ohuy.vercel.app/)
 
 - 📱 Developed a **full-stack social media application** with authentication, posts, likes, comments, and user profiles
 - 💬 Implemented **real-time communication** using Socket.IO for chat and live notifications
 - ☁️ Integrated **Cloudinary** for media upload, storage, and optimized delivery
-- ⚙️ Optimized **frontend performance** and state management for improved user experience
+- ⚙️ Optimized **frontend performance** and state management for a smoother user experience
 
 **Tech:** `MongoDB` · `Express.js` · `React.js` · `Node.js` · `Socket.IO` · `Cloudinary` · `JWT`
 
----
+<br>
 
 ## 📊 Data Analytics Projects
 
@@ -132,10 +130,10 @@ const suman = {
 ### 🛒 Sales Data EDA Project
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eda-data-analysis.vercel.app)
 
-- 🔍 Performed **end-to-end EDA** on 1,000+ retail transactions dataset
-- 🧪 Generated **synthetic dataset** using Faker & NumPy for real-world simulation
+- 🔍 Performed **end-to-end EDA** on a dataset of 1,000+ retail transactions
+- 🧪 Generated a **synthetic dataset** using Faker & NumPy for real-world simulation
 - 💰 Surfaced **₹1.31 Cr total sales** and **₹32.9 L profit** with a **25.1% margin**
-- 📦 Identified **top category** (Furniture) and **best-performing region** (East)
+- 📦 Identified the **top category** (Furniture) and **best-performing region** (East)
 - 📊 Built **interactive dashboards** using Plotly and deployed live on Vercel
 - 🌍 Conducted **multi-dimensional analysis** across region, segment, and payment mode
 
@@ -147,9 +145,9 @@ const suman = {
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://blinkit-analysis-hazel.vercel.app)
 
 - 📋 Built an Excel dashboard analyzing **8,523+ records** using Pivot Tables & Charts
-- 📈 Generated KPIs: **₹12L+ total sales**, avg sales **₹141**, avg rating **3.97**
-- 🥗 Found **64.6% revenue** contribution from **low-fat products**
-- 🏙️ Identified **Tier-3 cities** as top-performing with **39.3% revenue share**
+- 📈 Generated key KPIs: **₹12L+ total sales**, avg sales of **₹141**, avg rating of **3.97**
+- 🥗 Found that **64.6% of revenue** comes from **low-fat products**
+- 🏙️ Identified **Tier-3 cities** as top-performing, with a **39.3% revenue share**
 - 🎛️ Enabled **dynamic filtering** using slicers for real-time business insights
 
 **Tech:** `Excel` · `Pivot Tables` · `Charts` · `Slicers` · `KPI Reporting`
@@ -159,15 +157,15 @@ const suman = {
 ### 🐍 Blinkit Sales Analysis (Python + SQL)
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://blinkit-sales-analysis.vercel.app)
 
-- 🔄 Performed **full-cycle data analysis** on 8,523 transactions dataset
+- 🔄 Performed **full-cycle data analysis** on a dataset of 8,523 transactions
 - 🗄️ Used **SQL (SQLite)** for querying, aggregation, and filtering operations
 - 📊 Built visualizations using **Matplotlib** and **Seaborn**
-- 📉 Identified **revenue trends**, outlet performance, and category insights
+- 📉 Identified **revenue trends**, outlet performance, and category-level insights
 - 🖥️ Developed an **interactive HTML dashboard** for reporting
 
 **Tech:** `Python` · `SQLite` · `Pandas` · `Matplotlib` · `Seaborn` · `HTML Dashboard`
 
----
+<br>
 
 ## 🧩 LeetCode Progress
 
@@ -177,9 +175,9 @@ const suman = {
 
 > **🎯 Focus Areas:** `Arrays` · `Strings` · `Linked List` · `Stack` · `Queue` · `Trees` · `Graphs` · `Dynamic Programming`
 >
-> _📅 Solved **240+ problems** with consistent daily practice_
+> 📅 Solved **240+ problems** with consistent daily practice
 
----
+<br>
 
 ## 🤝 Connect With Me
 
@@ -190,7 +188,7 @@ const suman = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suman-jhanp-235a622b8/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=netlify&logoColor=white)](https://sumanjhanp.netlify.app/)
 
----
+<br>
 
 ⭐ **If you find my work useful, consider giving it a star!** ⭐
 
