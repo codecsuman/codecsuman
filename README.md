@@ -87,6 +87,7 @@ const suman = {
 
 ### 🏥 Doctor Appointment Booking Platform
 [![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/Doctor-Appointment-Booking)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://full-stack-doctor-appointment-booki.vercel.app)
 
 - 🏗️ Designed and developed a **scalable full-stack healthcare platform** using MongoDB, Express.js, React.js, and Node.js
 - 🔐 Implemented **secure authentication & authorization** using JWT and bcrypt for user data protection
