@@ -100,6 +100,7 @@ const suman = {
 
 ### 💼 Job Portal Web Application
 [![GitHub](https://img.shields.io/badge/🔗_View_Repo-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codecsuman/project-jobportal)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suman-job-portal.vercel.app)
 
 - 🔎 Developed a full-stack job portal with **user authentication, job search, filtering, and application tracking**
 - 🛠️ Designed **scalable RESTful APIs** and optimized database queries for efficient performance
