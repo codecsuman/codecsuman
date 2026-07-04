@@ -122,47 +122,7 @@ const suman = {
 
 <br/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/codecsuman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecsuman&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codecsuman&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FFA116&currStreakLabel=A855F7"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/codecsuman">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecsuman&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
-</a>
-
-<br/><br/>
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<img src="https://raw.githubusercontent.com/codecsuman/codecsuman/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-
-<br/>
-
-<!-- 📈 ACTIVITY GRAPH -->
-<a href="https://github.com/codecsuman">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecsuman&bg_color=0D1117&color=A855F7&line=A855F7&point=FFA116&area=true&hide_border=true" width="100%" alt="activity graph"/>
-</a>
-
-<br/>
-
-<!-- 🏆 TROPHIES -->
-<a href="https://github.com/codecsuman">
-  <img src="https://github-profile-trophy.vercel.app/?username=codecsuman&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" alt="divider"/>
-
-<br/>
 
 ## 🚀 Full Stack Projects (MERN)
 
