@@ -303,26 +303,7 @@ const suman = {
 
 <br/>
 
-## 🏆 Achievements & Milestones
 
-<div align="center">
-
-| 🎯 Milestone              | 📊 Count / Detail                            |
-| ------------------------- | -------------------------------------------- |
-| 💻 Full-Stack Projects    | **3+ Production-Ready MERN Apps**            |
-| 📊 Data Analytics Projects| **3+ EDA & BI Dashboards**                   |
-| 🧩 DSA Problems Solved    | **240+ on LeetCode**                         |
-| 🚀 Deployed Applications  | **6+ Live Projects** on Vercel / Netlify     |
-| 🎓 Academic CGPA          | **7.2** (up to 7th Semester)                 |
-| 💳 Payment Integrations   | **Stripe + Razorpay** in Production          |
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" alt="divider"/>
-
-<br/>
 
 ## 💡 Random Dev Quote
 
