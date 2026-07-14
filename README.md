@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://github.com/codecsuman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Turning+Data+Into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Dockerized+%26+Deployed+on+AWS+%E2%98%81%EF%B8%8F;Turning+Data+Into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=codecsuman&label=Profile%20Views&color=9333ea&style=for-the-badge" alt="Profile views" height="28"/>
@@ -34,10 +34,11 @@ const suman = {
   location  : "📍 Kolkata, India",
   role      : "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
   stack     : ["⚙️ MERN", "Node.js", "Express", "MongoDB", "MySQL"],
+  devops    : ["🐳 Docker", "☁️ AWS (EC2, S3, IAM)", "CI/CD", "Nginx"],
   analytics : ["📊 Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Power BI", "Excel"],
   cs_core   : ["🧠 DSA", "DBMS", "OS", "OOP"],
-  deployed  : ["☁️ Netlify", "Vercel", "Render"],
-  currentFocus : "🎯 Building scalable systems & turning raw data into meaningful insights",
+  deployed  : ["☁️ Netlify", "Vercel", "Render", "AWS"],
+  currentFocus : "🎯 Building scalable systems, containerizing apps & turning raw data into meaningful insights",
   funFact      : "💡 I write code by day and solve LeetCode by night!"
 };
 ```
@@ -46,9 +47,10 @@ const suman = {
 
 ### 💡 Quick Highlights
 - 🔭 Currently building **scalable MERN applications** with real-time features & payment integrations
+- 🐳 **Containerizing apps with Docker** and deploying to **AWS (EC2, S3)** for production-grade workflows
 - 🌱 Deepening my expertise in **Data Analytics, Power BI & Business Intelligence**
 - 👯 Open to collaborating on **Full-Stack, Open-Source & Data-Driven projects**
-- 💬 Ask me about **React, Node.js, MongoDB, Python, or Data Visualization**
+- 💬 Ask me about **React, Node.js, MongoDB, Docker, AWS, Python, or Data Visualization**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/suman-jhanp-235a622b8/)** or explore my **[Portfolio](https://sumanjhanp.netlify.app/)**
 - ⚡ Fun fact: **I've solved 240+ DSA problems and counting!**
 
@@ -65,6 +67,14 @@ const suman = {
 **Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark" alt="databases" />
 
+**DevOps & Cloud**
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark" alt="devops cloud" />
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 **Data Analytics & BI**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -76,7 +86,7 @@ const suman = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Tools & Deployment**
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,vercel,netlify&theme=dark" alt="tools" />
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
@@ -147,6 +157,27 @@ const suman = {
 - 🔧 *Feature bullet 3*
 
 **Tech Stack:** *add badges here*
+
+## ☁️ DevOps & Cloud Skills
+> Containerizing and deploying full-stack apps with modern DevOps practices.
+
+<div align="center">
+
+| 🐳 **Docker** | ☁️ **AWS** | ⚙️ **CI/CD & Tools** |
+|:---:|:---:|:---:|
+| Dockerfile authoring | EC2 (Ubuntu server deployment) | GitHub Actions workflows |
+| Multi-stage builds | S3 (static hosting & storage) | Nginx reverse proxy |
+| Docker Compose | IAM (roles & policies) | PM2 process manager |
+| Image optimization | Route 53 basics | Linux shell scripting |
+| Container networking | Security Groups & VPC basics | Environment management (.env) |
+
+</div>
+
+- 🐳 **Dockerized MERN applications** with separate containers for frontend, backend, and MongoDB using `docker-compose`
+- ☁️ Deployed production apps on **AWS EC2** with Nginx as reverse proxy and PM2 for process management
+- 🗂️ Used **AWS S3** for static asset hosting and media storage with proper IAM policies
+- 🔄 Set up **CI/CD pipelines** using GitHub Actions for automated build, test, and deployment
+- 🔐 Managed **environment variables, SSH keys, and IAM roles** following security best practices
 
 ## 📊 Data Analytics Projects
 > Turning raw data into actionable insights through EDA, dashboards, and business intelligence reporting.
