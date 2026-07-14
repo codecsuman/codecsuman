@@ -30,7 +30,7 @@
 const suman = {
   education : "🎓 B.Tech in Information Technology (2022–2026)",
   college   : "🏛️ RCC Institute of Information Technology, Kolkata",
-  cgpa      : "📈 7.2 (Up to 7th Semester)",
+  cgpa      : "📈 7 ",
   location  : "📍 Kolkata, India",
   role      : "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
   stack     : ["⚙️ MERN", "Node.js", "Express", "MongoDB", "MySQL"],
