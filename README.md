@@ -63,25 +63,42 @@ const suman = {
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark"/>
+<table>
+<tr>
+<td align="center"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend/Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>DevOps/Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=postman,vscode,vercel,netlify&theme=dark"/></td>
+</tr>
+</table>
 
-### Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark"/>
-
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark"/>
 <br/>
+
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
 
-### Data Analytics & BI
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
@@ -90,13 +107,6 @@ const suman = {
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-### Tools & Deployment
-<img src="https://skillicons.dev/icons?i=postman,vscode,vercel,netlify&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
 
 </div>
 
