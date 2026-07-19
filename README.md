@@ -126,24 +126,6 @@ const suman = {
 - 🧑‍🍳 Created a **restaurant owner dashboard** to manage restaurants, menus, images, and live orders
 - 🖼️ Integrated **Cloudinary** for image upload and optimized media handling
 
-### ✨ Features
-
-#### 👤 For Customers
-- Secure signup, login, and email verification
-- Search restaurants by name, city, and cuisine
-- Add to cart and place orders using Stripe checkout
-- Track order status in real time
-- Light / Dark mode toggle
-- Fully responsive design
-
-#### 🧑‍🍳 For Restaurant Owners
-- Create and manage your own restaurant
-- Add / edit / delete menu items with images
-- Cloudinary-powered image uploads
-- Manage incoming orders live
-- Secure Stripe payment processing
-- Full admin dashboard
-
 ### 🛠 Tech Stack
 
 **Backend:** Node.js · Express · TypeScript · MongoDB · Mongoose · JWT · Cloudinary · Stripe · Mailtrap · tsx  
