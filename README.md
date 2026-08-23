@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20Jhanp&fontSize=58&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=56&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20Jhanp&fontSize=58&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20System%20Designer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=56&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
 
 <a href="https://github.com/codecsuman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;Dockerized+%26+Deployed+Apps+on+AWS+%E2%98%81%EF%B8%8F;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+Systems+%F0%9F%9A%80" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;System+Design+Architect+%F0%9F%8F%97%EF%B8%8F;Aspiring+Data+Analyst+%F0%9F%93%8A;Dockerized+%26+Deployed+Apps+on+AWS+%E2%98%81%EF%B8%8F;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+Systems+%F0%9F%9A%80" alt="typing"/>
 </a>
 
 <br/><br/>
@@ -32,16 +32,18 @@
 const suman = {
   education: "🎓 B.Tech in Information Technology (2022–2026)",
   college: "🏛️ RCC Institute of Information Technology, Kolkata",
-  cgpa: "📈 7.0",
+  cgpa: "📈 6.80/10",
   location: "📍 Kolkata, India",
-  role: "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
+  role: "💼 Full-Stack MERN Developer & System Design Architect",
+  experience: "🏢 MERN Stack Developer Intern @ PAS Digital Technologies (May 2026–Present)",
   stack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript"],
+  systemDesign: ["Scalability", "Distributed Systems", "Microservices", "Database Design", "Caching", "Message Queues"],
   devops: ["Docker", "AWS (EC2, S3, IAM)", "CI/CD", "Nginx", "PM2"],
   analytics: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Power BI", "Excel"],
-  core: ["DSA", "DBMS", "OS", "OOP"],
+  core: ["DSA", "DBMS", "OS", "OOP", "System Design"],
   deployedOn: ["Vercel", "Netlify", "Render", "AWS"],
-  currentFocus: "Building scalable full-stack systems, containerizing apps, and transforming raw data into insights",
-  funFact: "I write code by day and solve LeetCode by night ⚡"
+  currentFocus: "Building scalable full-stack systems, mastering system design, and transforming data into insights",
+  funFact: "I design systems by day and solve DSA problems by night ⚡"
 };
 ```
 
@@ -50,11 +52,12 @@ const suman = {
 ## 💡 Quick Highlights
 
 - 🔭 Building **scalable MERN applications** with authentication, dashboards, real-time workflows, and payment integrations
+- 🏗️ **Designing distributed systems** with focus on scalability, reliability, and performance
 - 🐳 **Containerizing full-stack apps with Docker** and deploying them on **AWS EC2 / S3**
 - 📊 Deepening my knowledge in **Data Analytics, EDA, Power BI, and dashboard storytelling**
-- 👯 Open to collaborating on **Full-Stack**, **Open-Source**, and **Data-Driven** projects
-- 💬 Ask me about **React, Node.js, MongoDB, Docker, AWS, Python, SQL, and Data Visualization**
-- 🧩 Solved **240+ DSA problems** and consistently improving problem-solving skills
+- 👯 Open to collaborating on **Full-Stack**, **System Design**, **Open-Source**, and **Data-Driven** projects
+- 💬 Ask me about **React, Node.js, MongoDB, System Design, Docker, AWS, Python, SQL, and Data Visualization**
+- 🧩 Solved **240+ DSA problems** with consistent daily practice
 - 📫 Reach me through **[LinkedIn](https://www.linkedin.com/in/suman-jhanp-235a622b8/)** or explore my **[Portfolio](https://sumanjhanp.netlify.app/)**
 
 ---
@@ -109,6 +112,110 @@ const suman = {
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 </div>
+
+---
+
+# 🏗️ System Design & Architecture
+
+> Designing large-scale, distributed systems with focus on scalability, reliability, performance, and maintainability.
+
+<div align="center">
+
+### Core System Design Concepts
+
+| **Scalability** | **Reliability** | **Performance** | **Database Design** |
+|:---:|:---:|:---:|:---:|
+| Horizontal Scaling | Fault Tolerance | Caching Strategies | Normalization & Denormalization |
+| Load Balancing | Replication | Database Indexing | Sharding & Partitioning |
+| Database Sharding | Circuit Breaker | CDN Integration | Master-Slave Replication |
+| Microservices | Rate Limiting | Query Optimization | NoSQL vs RDBMS |
+| API Gateway | Redundancy | Connection Pooling | Transaction Management |
+
+</div>
+
+### 🎯 Designed Systems (Interview Ready)
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### ⚡ High-Traffic Systems
+- **URL Shortener** – Designing for billions of short URLs
+- **Distributed Cache** – Redis-based caching layer
+- **Message Queue** – RabbitMQ/Kafka for async processing
+- **Real-time Chat** – WebSocket-based messaging system
+- **Notification System** – Push, email, and SMS notifications
+- **Rate Limiter** – Token bucket & sliding window algorithms
+
+</td>
+<td width="50%">
+
+#### 📊 Data-Heavy Systems
+- **Analytics Dashboard** – Processing massive datasets
+- **Search Engine** – Elasticsearch indexing & retrieval
+- **Recommendation Engine** – Collaborative filtering & ML-based
+- **Video Streaming** – Adaptive bitrate & CDN delivery
+- **Time Series DB** – InfluxDB for metrics & logs
+- **Data Warehouse** – ETL pipelines & OLAP queries
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+#### 🔗 Distributed Architecture Patterns
+- **Microservices** – Service discovery, API gateway, circuit breaker
+- **Event-Driven Architecture** – Pub/Sub pattern with message brokers
+- **CQRS** – Command Query Responsibility Segregation
+- **Saga Pattern** – Distributed transactions across services
+- **Load Balancing** – Round-robin, least connections, consistent hashing
+- **Database Replication** – Master-slave, multi-master, eventual consistency
+
+</td>
+</tr>
+</table>
+
+### 💾 Database & Storage Strategies
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                 Data Layer Architecture                      │
+├─────────────────────────────────────────────────────────────┤
+│  Primary Database (MongoDB/PostgreSQL)                       │
+│  ├── Master-Slave Replication                               │
+│  └── Read Replicas for analytics                            │
+│                                                              │
+│  Caching Layer (Redis)                                       │
+│  ├── Cache-aside pattern                                    │
+│  ├── Session storage                                        │
+│  └── Rate limiting counters                                 │
+│                                                              │
+│  Search Layer (Elasticsearch)                                │
+│  ├── Full-text search                                       │
+│  └── Log aggregation                                        │
+│                                                              │
+│  Message Queue (RabbitMQ/Kafka)                             │
+│  ├── Async task processing                                  │
+│  ├── Event streaming                                        │
+│  └── Retry mechanisms                                       │
+│                                                              │
+│  Object Storage (AWS S3)                                     │
+│  ├── Media files                                            │
+│  ├── Backups                                                │
+│  └── CDN integration                                        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🔐 System Design Best Practices
+
+| Principle | Implementation | Benefit |
+|:---|:---|:---|
+| **CAP Theorem** | Choose CP or AP based on requirements | Understand trade-offs |
+| **Idempotency** | Unique request IDs & deduplication | Safe retries |
+| **Backward Compatibility** | Versioned APIs & feature flags | Zero-downtime deployments |
+| **Monitoring & Logging** | ELK stack, Prometheus, Grafana | Quick incident response |
+| **Security** | Authentication, encryption, rate limiting | Protect against attacks |
+| **Documentation** | API docs, architecture diagrams, runbooks | Team alignment |
 
 ---
 
@@ -269,7 +376,7 @@ const suman = {
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://blinkit-sales-analysis.vercel.app)
 
 - 🔄 Performed **full-cycle data analysis** on **8,523 transactions**
-- 🗄️ Used **SQLite** for querying, aggregation, and filtering
+- 🗂️ Used **SQLite** for querying, aggregation, and filtering
 - 📊 Built visualizations using **Matplotlib** and **Seaborn**
 - 📉 Identified **revenue trends**, **outlet performance**, and **category insights**
 - 🧠 Combined **Python + SQL** for practical analytics workflows
@@ -298,6 +405,7 @@ const suman = {
 
 - 🎯 Focus Areas: **Arrays, Strings, Linked List, Stack, Queue, Trees, Graphs, Dynamic Programming**
 - 📅 Solved **240+ problems** with consistent daily practice on **[LeetCode](https://leetcode.com/u/sumanjhanp1/)**
+- 🏆 Proficiency: **Arrays & Strings** → **Advanced** | **Trees & Graphs** → **Intermediate** | **DP** → **Intermediate**
 
 ---
 
@@ -308,6 +416,30 @@ const suman = {
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+---
+
+# 🎓 Interview Preparation
+
+> Actively preparing for software engineering interviews targeting both **service-based companies** (TCS, Infosys, Wipro) and **product-based companies** (Amazon, Microsoft, Flipkart).
+
+### 📚 Preparation Strategy
+
+- ✅ **240+ LeetCode problems** solved with daily practice
+- ✅ **Java DSA fundamentals** from College Wallah (PW Skills)
+- ✅ **System Design concepts** covering scalability, databases, and distributed systems
+- ✅ **MERN stack expertise** with real-world project implementations
+- ✅ **SQL & Database optimization** for efficient data retrieval
+- ✅ **Docker & AWS deployment** for production-grade applications
+
+### 🎯 Interview Topics Mastered
+
+| Data Structures | Algorithms | System Design |
+|:---|:---|:---|
+| Arrays, Strings | Sorting, Searching | Scalability |
+| Linked Lists, Stacks | BFS, DFS, Greedy | Load Balancing |
+| Queues, Trees, Graphs | Two Pointers, DP | Caching |
+| Hash Maps, Heaps | Backtracking, Recursion | Database Design |
 
 ---
 
