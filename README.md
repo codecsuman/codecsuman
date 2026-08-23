@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20Jhanp&fontSize=58&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20System%20Designer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=56&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20Jhanp&fontSize=58&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=56&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
 
 <a href="https://github.com/codecsuman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;System+Design+Architect+%F0%9F%8F%97%EF%B8%8F;Aspiring+Data+Analyst+%F0%9F%93%8A;Dockerized+%26+Deployed+Apps+on+AWS+%E2%98%81%EF%B8%8F;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+Systems+%F0%9F%9A%80" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;Dockerized+%26+Deployed+Apps+on+AWS+%E2%98%81%EF%B8%8F;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+Systems+%F0%9F%9A%80" alt="typing"/>
 </a>
 
 <br/><br/>
@@ -34,16 +34,15 @@ const suman = {
   college: "🏛️ RCC Institute of Information Technology, Kolkata",
   cgpa: "📈 6.80/10",
   location: "📍 Kolkata, India",
-  role: "💼 Full-Stack MERN Developer & System Design Architect",
+  role: "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
   experience: "🏢 MERN Stack Developer Intern @ PAS Digital Technologies (May 2026–Present)",
   stack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript"],
-  systemDesign: ["Scalability", "Distributed Systems", "Microservices", "Database Design", "Caching", "Message Queues"],
   devops: ["Docker", "AWS (EC2, S3, IAM)", "CI/CD", "Nginx", "PM2"],
   analytics: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Power BI", "Excel"],
-  core: ["DSA", "DBMS", "OS", "OOP", "System Design"],
+  core: ["DSA", "DBMS", "OS", "OOP"],
   deployedOn: ["Vercel", "Netlify", "Render", "AWS"],
-  currentFocus: "Building scalable full-stack systems, mastering system design, and transforming data into insights",
-  funFact: "I design systems by day and solve DSA problems by night ⚡"
+  currentFocus: "Building scalable full-stack systems, containerizing apps, and transforming raw data into insights",
+  funFact: "I write code by day and solve LeetCode by night ⚡"
 };
 ```
 
@@ -52,11 +51,10 @@ const suman = {
 ## 💡 Quick Highlights
 
 - 🔭 Building **scalable MERN applications** with authentication, dashboards, real-time workflows, and payment integrations
-- 🏗️ **Designing distributed systems** with focus on scalability, reliability, and performance
 - 🐳 **Containerizing full-stack apps with Docker** and deploying them on **AWS EC2 / S3**
 - 📊 Deepening my knowledge in **Data Analytics, EDA, Power BI, and dashboard storytelling**
-- 👯 Open to collaborating on **Full-Stack**, **System Design**, **Open-Source**, and **Data-Driven** projects
-- 💬 Ask me about **React, Node.js, MongoDB, System Design, Docker, AWS, Python, SQL, and Data Visualization**
+- 👯 Open to collaborating on **Full-Stack**, **Open-Source**, and **Data-Driven** projects
+- 💬 Ask me about **React, Node.js, MongoDB, Docker, AWS, Python, SQL, and Data Visualization**
 - 🧩 Solved **240+ DSA problems** with consistent daily practice
 - 📫 Reach me through **[LinkedIn](https://www.linkedin.com/in/suman-jhanp-235a622b8/)** or explore my **[Portfolio](https://sumanjhanp.netlify.app/)**
 
@@ -87,6 +85,10 @@ const suman = {
 <td align="center"><b>Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=postman,vscode,vercel,netlify&theme=dark"/></td>
 </tr>
+<tr>
+<td align="center"><b>System Design</b></td>
+<td>Event Sourcing · CQRS · Rate Limiting · Consistent Hashing · Video Streaming · Payment Systems · WebRTC · Gossip Protocol · Queue Patterns</td>
+</tr>
 </table>
 
 <br/>
@@ -112,150 +114,6 @@ const suman = {
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 </div>
-
----
-
-# 🏗️ System Design & Architecture
-
-> Designing large-scale, distributed systems with focus on scalability, reliability, performance, and maintainability.
-
-<div align="center">
-
-### Core System Design Concepts
-
-| **Scalability** | **Reliability** | **Performance** | **Database Design** |
-|:---:|:---:|:---:|:---:|
-| Horizontal Scaling | Fault Tolerance | Caching Strategies | Normalization & Denormalization |
-| Load Balancing | Replication | Database Indexing | Sharding & Partitioning |
-| Database Sharding | Circuit Breaker | CDN Integration | Master-Slave Replication |
-| Microservices | Rate Limiting | Query Optimization | NoSQL vs RDBMS |
-| API Gateway | Redundancy | Connection Pooling | Transaction Management |
-
-</div>
-
-### 🎯 Designed Systems (Interview Ready)
-
-<table align="center">
-<tr>
-<td width="50%">
-
-#### ⚡ High-Traffic Systems
-- **URL Shortener** – Designing for billions of short URLs
-- **Distributed Cache** – Redis-based caching layer
-- **Message Queue** – RabbitMQ/Kafka for async processing
-- **Real-time Chat** – WebSocket-based messaging system
-- **Notification System** – Push, email, and SMS notifications
-- **Rate Limiter** – Token bucket & sliding window algorithms
-
-</td>
-<td width="50%">
-
-#### 📊 Data-Heavy Systems
-- **Analytics Dashboard** – Processing massive datasets
-- **Search Engine** – Elasticsearch indexing & retrieval
-- **Recommendation Engine** – Collaborative filtering & ML-based
-- **Video Streaming** – Adaptive bitrate & CDN delivery
-- **Time Series DB** – InfluxDB for metrics & logs
-- **Data Warehouse** – ETL pipelines & OLAP queries
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-#### 🔗 Distributed Architecture Patterns
-- **Microservices** – Service discovery, API gateway, circuit breaker
-- **Event-Driven Architecture** – Pub/Sub pattern with message brokers
-- **CQRS** – Command Query Responsibility Segregation
-- **Saga Pattern** – Distributed transactions across services
-- **Load Balancing** – Round-robin, least connections, consistent hashing
-- **Database Replication** – Master-slave, multi-master, eventual consistency
-
-</td>
-</tr>
-</table>
-
-### 📚 System Design Learning Resources
-
-> **Learning Path:** Mastering System Design through structured, industry-proven concepts
-
-#### 🎬 [Piyush Garg - System Design Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o)
-
-I've completed **12/14** videos from this comprehensive system design course:
-
-| # | Topic | Duration | Status |
-|:---:|:---|:---:|:---:|
-| 1 | [System Design for Beginners](https://www.youtube.com/watch?v=lFeYU31TnQ8&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=1) | 47:30 | ✅ Completed |
-| 2 | [System Design Crash Course - Part 2](https://www.youtube.com/watch?v=YuB3OuF3MUE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=2) | 50:09 | ✅ Completed |
-| 3 | [System Design - Event Sourcing](https://www.youtube.com/watch?v=JTmgi0vO5Ug&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=3) | 32:46 | ✅ Completed |
-| 4 | [CQRS System Design Pattern](https://www.youtube.com/watch?v=vNplj9LwQSw&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=4) | 33:22 | ✅ Completed |
-| 5 | [Back of Envelope Calculation](https://www.youtube.com/watch?v=DwqTon7ZS_s&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=5) | 16:40 | ✅ Completed |
-| 6 | [Master Rate Limiting](https://www.youtube.com/watch?v=CVItTb_jdkE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=6) | 40:25 | ✅ Completed |
-| 7 | [Consistent Hashing](https://www.youtube.com/watch?v=IC5Y1EE-aj4&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=7) | 31:00 | ✅ Completed |
-| 8 | [How Video Streaming Works at Scale](https://www.youtube.com/watch?v=-JtjQ-OA7XE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=8) | 30:53 | ✅ Completed |
-| 9 | [System Design of UPI Payments](https://www.youtube.com/watch?v=fqySz1Me2pI&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=9) | 25:25 | ✅ Completed |
-| 10 | [What are Bloom Filters?](https://www.youtube.com/watch?v=vz0QUa4CS3o&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=10) | 20:42 | ✅ Completed |
-| 11 | [Multi-Conference Video Calls - WebRTC vs SFU vs MCU](https://www.youtube.com/watch?v=Zaz6hYVm-WE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=11) | 24:25 | ✅ Completed |
-| 12 | [Gossip Protocol System Design](https://www.youtube.com/watch?v=TUc_hPtxyf8&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=12) | 34:35 | ✅ Completed |
-| 13 | [Master Queues - System Design Interview](https://www.youtube.com/watch?v=2tCfITBVKjA&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=13) | 31:24 | 🔄 In Progress |
-| 14 | [System Design Patterns You Should Master](https://www.youtube.com/watch?v=OdNpY3WQniQ&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=14) | 20:24 | 🔄 In Progress |
-
-#### 🎯 Mastered Concepts from Playlist
-
-<div align="center">
-
-| **Fundamental Concepts** | **Advanced Patterns** | **Real-World Systems** | **Optimization** |
-|:---|:---|:---|:---|
-| Scalability Principles | Event Sourcing | Video Streaming at Scale | Rate Limiting Algorithms |
-| Distributed Systems | CQRS Pattern | UPI Payment Systems | Consistent Hashing |
-| System Design Process | Gossip Protocol | Multi-Conference Video Calls | Bloom Filters |
-| Back of Envelope Calculations | Queue Patterns | — | Database Sharding |
-
-</div>
-
----
-
-### 💾 Database & Storage Strategies
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                 Data Layer Architecture                      │
-├─────────────────────────────────────────────────────────────┤
-│  Primary Database (MongoDB/PostgreSQL)                       │
-│  ├── Master-Slave Replication                               │
-│  └── Read Replicas for analytics                            │
-│                                                              │
-│  Caching Layer (Redis)                                       │
-│  ├── Cache-aside pattern                                    │
-│  ├── Session storage                                        │
-│  └── Rate limiting counters                                 │
-│                                                              │
-│  Search Layer (Elasticsearch)                                │
-│  ├── Full-text search                                       │
-│  └── Log aggregation                                        │
-│                                                              │
-│  Message Queue (RabbitMQ/Kafka)                             │
-│  ├── Async task processing                                  │
-│  ├── Event streaming                                        │
-│  └── Retry mechanisms                                       │
-│                                                              │
-│  Object Storage (AWS S3)                                     │
-│  ├── Media files                                            │
-│  ├── Backups                                                │
-│  └── CDN integration                                        │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### 🔐 System Design Best Practices
-
-| Principle | Implementation | Benefit |
-|:---|:---|:---|
-| **CAP Theorem** | Choose CP or AP based on requirements | Understand trade-offs |
-| **Idempotency** | Unique request IDs & deduplication | Safe retries |
-| **Backward Compatibility** | Versioned APIs & feature flags | Zero-downtime deployments |
-| **Monitoring & Logging** | ELK stack, Prometheus, Grafana | Quick incident response |
-| **Security** | Authentication, encryption, rate limiting | Protect against attacks |
-| **Documentation** | API docs, architecture diagrams, runbooks | Team alignment |
 
 ---
 
@@ -456,33 +314,6 @@ I've completed **12/14** videos from this comprehensive system design course:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-# 🎓 Interview Preparation
-
-> Actively preparing for software engineering interviews targeting both **service-based companies** (TCS, Infosys, Wipro) and **product-based companies** (Amazon, Microsoft, Flipkart).
-
-### 📚 Preparation Strategy & Learning Resources
-
-#### 📖 Structured Learning
-
-- ✅ **240+ LeetCode problems** solved with daily practice
-- ✅ **Java DSA fundamentals** from College Wallah (PW Skills)
-- ✅ **System Design Masterclass** – 12+ topics from [Piyush Garg's Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o)
-  - Event Sourcing, CQRS, Rate Limiting, Consistent Hashing, Video Streaming, Payment Systems, WebRTC, Gossip Protocol, Queue Patterns
-- ✅ **MERN stack expertise** with real-world project implementations
-- ✅ **SQL & Database optimization** for efficient data retrieval
-- ✅ **Docker & AWS deployment** for production-grade applications
-
-### 🎯 Interview Topics Mastered
-
-| Data Structures | Algorithms | System Design |
-|:---|:---|:---|
-| Arrays, Strings | Sorting, Searching | Scalability |
-| Linked Lists, Stacks | BFS, DFS, Greedy | Load Balancing |
-| Queues, Trees, Graphs | Two Pointers, DP | Caching |
-| Hash Maps, Heaps | Backtracking, Recursion | Database Design |
 
 ---
 
