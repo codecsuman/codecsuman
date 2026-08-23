@@ -175,6 +175,46 @@ const suman = {
 </tr>
 </table>
 
+### 📚 System Design Learning Resources
+
+> **Learning Path:** Mastering System Design through structured, industry-proven concepts
+
+#### 🎬 [Piyush Garg - System Design Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o)
+
+I've completed **12/14** videos from this comprehensive system design course:
+
+| # | Topic | Duration | Status |
+|:---:|:---|:---:|:---:|
+| 1 | [System Design for Beginners](https://www.youtube.com/watch?v=lFeYU31TnQ8&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=1) | 47:30 | ✅ Completed |
+| 2 | [System Design Crash Course - Part 2](https://www.youtube.com/watch?v=YuB3OuF3MUE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=2) | 50:09 | ✅ Completed |
+| 3 | [System Design - Event Sourcing](https://www.youtube.com/watch?v=JTmgi0vO5Ug&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=3) | 32:46 | ✅ Completed |
+| 4 | [CQRS System Design Pattern](https://www.youtube.com/watch?v=vNplj9LwQSw&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=4) | 33:22 | ✅ Completed |
+| 5 | [Back of Envelope Calculation](https://www.youtube.com/watch?v=DwqTon7ZS_s&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=5) | 16:40 | ✅ Completed |
+| 6 | [Master Rate Limiting](https://www.youtube.com/watch?v=CVItTb_jdkE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=6) | 40:25 | ✅ Completed |
+| 7 | [Consistent Hashing](https://www.youtube.com/watch?v=IC5Y1EE-aj4&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=7) | 31:00 | ✅ Completed |
+| 8 | [How Video Streaming Works at Scale](https://www.youtube.com/watch?v=-JtjQ-OA7XE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=8) | 30:53 | ✅ Completed |
+| 9 | [System Design of UPI Payments](https://www.youtube.com/watch?v=fqySz1Me2pI&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=9) | 25:25 | ✅ Completed |
+| 10 | [What are Bloom Filters?](https://www.youtube.com/watch?v=vz0QUa4CS3o&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=10) | 20:42 | ✅ Completed |
+| 11 | [Multi-Conference Video Calls - WebRTC vs SFU vs MCU](https://www.youtube.com/watch?v=Zaz6hYVm-WE&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=11) | 24:25 | ✅ Completed |
+| 12 | [Gossip Protocol System Design](https://www.youtube.com/watch?v=TUc_hPtxyf8&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=12) | 34:35 | ✅ Completed |
+| 13 | [Master Queues - System Design Interview](https://www.youtube.com/watch?v=2tCfITBVKjA&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=13) | 31:24 | 🔄 In Progress |
+| 14 | [System Design Patterns You Should Master](https://www.youtube.com/watch?v=OdNpY3WQniQ&list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o&index=14) | 20:24 | 🔄 In Progress |
+
+#### 🎯 Mastered Concepts from Playlist
+
+<div align="center">
+
+| **Fundamental Concepts** | **Advanced Patterns** | **Real-World Systems** | **Optimization** |
+|:---|:---|:---|:---|
+| Scalability Principles | Event Sourcing | Video Streaming at Scale | Rate Limiting Algorithms |
+| Distributed Systems | CQRS Pattern | UPI Payment Systems | Consistent Hashing |
+| System Design Process | Gossip Protocol | Multi-Conference Video Calls | Bloom Filters |
+| Back of Envelope Calculations | Queue Patterns | — | Database Sharding |
+
+</div>
+
+---
+
 ### 💾 Database & Storage Strategies
 
 ```
@@ -423,11 +463,14 @@ const suman = {
 
 > Actively preparing for software engineering interviews targeting both **service-based companies** (TCS, Infosys, Wipro) and **product-based companies** (Amazon, Microsoft, Flipkart).
 
-### 📚 Preparation Strategy
+### 📚 Preparation Strategy & Learning Resources
+
+#### 📖 Structured Learning
 
 - ✅ **240+ LeetCode problems** solved with daily practice
 - ✅ **Java DSA fundamentals** from College Wallah (PW Skills)
-- ✅ **System Design concepts** covering scalability, databases, and distributed systems
+- ✅ **System Design Masterclass** – 12+ topics from [Piyush Garg's Playlist](https://www.youtube.com/playlist?list=PLinedj3B30sBlBWRox2V2tg9QJ2zr4M3o)
+  - Event Sourcing, CQRS, Rate Limiting, Consistent Hashing, Video Streaming, Payment Systems, WebRTC, Gossip Protocol, Queue Patterns
 - ✅ **MERN stack expertise** with real-world project implementations
 - ✅ **SQL & Database optimization** for efficient data retrieval
 - ✅ **Docker & AWS deployment** for production-grade applications
