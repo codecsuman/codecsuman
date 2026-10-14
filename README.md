@@ -39,6 +39,7 @@ const suman = {
   stack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript", "Socket.IO"],
   devops: ["Docker", "Kubernetes", "AWS (EC2, S3, IAM)", "CI/CD", "Jenkins", "Nginx", "PM2"],
   messagingAndCache: ["Redis", "RabbitMQ"],
+  testing: ["Manual Testing", "Playwright (E2E)", "UAT", "Bug Reporting", "Postman (API Testing)"],
   analytics: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Power BI", "Excel"],
   core: ["DSA", "DBMS", "OS", "OOP"],
   deployedOn: ["Vercel", "Netlify", "Render", "AWS"],
@@ -55,6 +56,7 @@ const suman = {
 - 🐳 **Containerizing full-stack apps with Docker** and deploying them on **AWS EC2 / S3**
 - ☸️ Learning **Kubernetes** and **Jenkins** for orchestration and automated CI/CD pipelines
 - ⚡ Working with **Redis** (caching) and **RabbitMQ** (message queues) for scalable backends
+- 🧪 Doing **manual testing** and **end-to-end testing with Playwright** on real products during my internship
 - 📊 Deepening my knowledge in **Data Analytics, EDA, Power BI, and dashboard storytelling**
 - 👯 Open to collaborating on **Full-Stack**, **Open-Source**, and **Data-Driven** projects
 - 💬 Ask me about **React, Node.js, MongoDB, Docker, AWS, Python, SQL, and Data Visualization**
@@ -92,6 +94,15 @@ const suman = {
 <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,nginx,git,github&theme=dark"/></td>
 </tr>
 <tr>
+<td align="center"><b>Testing / QA</b></td>
+<td>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual_Testing-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/UAT-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</td>
+</tr>
+<tr>
 <td align="center"><b>Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=postman,vscode,vercel,netlify&theme=dark"/></td>
 </tr>
@@ -113,6 +124,7 @@ const suman = {
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
@@ -244,6 +256,17 @@ const suman = {
 - 🔄 Set up **CI/CD pipelines** using **GitHub Actions** and **Jenkins**
 - ⚡ Using **Redis** for caching and **RabbitMQ** for message queues
 - 🔐 Managed **environment variables, IAM roles, SSH keys, and production deployment workflows**
+
+---
+
+# 🧪 Testing & QA Skills
+
+> Making sure products work properly before users see them.
+
+- 🖱️ Doing **manual testing** of web applications (functional, UI, and regression testing)
+- 🎭 Testing products with **Playwright** (end-to-end browser testing) at my internship
+- 📝 Writing **test cases**, **bug reports**, and **UAT documentation**
+- 🔌 Testing APIs with **Postman**
 
 ---
 
