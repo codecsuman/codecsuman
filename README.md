@@ -36,8 +36,9 @@ const suman = {
   location: "📍 Kolkata, India",
   role: "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
   experience: "🏢 MERN Stack Developer Intern @ PAS Digital Technologies (May 2026–Present)",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript"],
-  devops: ["Docker", "AWS (EC2, S3, IAM)", "CI/CD", "Nginx", "PM2"],
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript", "Socket.IO"],
+  devops: ["Docker", "Kubernetes", "AWS (EC2, S3, IAM)", "CI/CD", "Jenkins", "Nginx", "PM2"],
+  messagingAndCache: ["Redis", "RabbitMQ"],
   analytics: ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly", "Power BI", "Excel"],
   core: ["DSA", "DBMS", "OS", "OOP"],
   deployedOn: ["Vercel", "Netlify", "Render", "AWS"],
@@ -52,6 +53,8 @@ const suman = {
 
 - 🔭 Building **scalable MERN applications** with authentication, dashboards, real-time workflows, and payment integrations
 - 🐳 **Containerizing full-stack apps with Docker** and deploying them on **AWS EC2 / S3**
+- ☸️ Learning **Kubernetes** and **Jenkins** for orchestration and automated CI/CD pipelines
+- ⚡ Working with **Redis** (caching) and **RabbitMQ** (message queues) for scalable backends
 - 📊 Deepening my knowledge in **Data Analytics, EDA, Power BI, and dashboard storytelling**
 - 👯 Open to collaborating on **Full-Stack**, **Open-Source**, and **Data-Driven** projects
 - 💬 Ask me about **React, Node.js, MongoDB, Docker, AWS, Python, SQL, and Data Visualization**
@@ -71,15 +74,22 @@ const suman = {
 </tr>
 <tr>
 <td align="center"><b>Frontend/Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td align="center"><b>Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><b>Messaging & Cache</b></td>
+<td><img src="https://skillicons.dev/icons?i=redis,rabbitmq&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>DevOps/Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,nginx,git,github&theme=dark"/></td>
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
@@ -97,7 +107,12 @@ const suman = {
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
@@ -214,17 +229,20 @@ const suman = {
 | 🐳 Docker | ☁️ AWS | ⚙️ CI/CD & Tools |
 |:---:|:---:|:---:|
 | Dockerfile authoring | EC2 deployment | GitHub Actions |
-| Multi-stage builds | S3 storage & hosting | Nginx reverse proxy |
-| Docker Compose | IAM roles & policies | PM2 process manager |
-| Image optimization | Security Groups & VPC basics | Linux shell scripting |
-| Container networking | Route 53 basics | Environment management |
+| Multi-stage builds | S3 storage & hosting | Jenkins pipelines |
+| Docker Compose | IAM roles & policies | Nginx reverse proxy |
+| Image optimization | Security Groups & VPC basics | PM2 process manager |
+| Container networking | Route 53 basics | Linux shell scripting |
+| Kubernetes basics | Environment management | Redis & RabbitMQ |
 
 </div>
 
 - 🐳 Dockerized MERN apps with separate services for frontend, backend, and database
+- ☸️ Learning **Kubernetes** for container orchestration and scaling
 - ☁️ Deployed applications on **AWS EC2** with **Nginx** and **PM2**
 - 🗂️ Used **AWS S3** for static hosting and media storage
-- 🔄 Set up **CI/CD pipelines** using **GitHub Actions**
+- 🔄 Set up **CI/CD pipelines** using **GitHub Actions** and **Jenkins**
+- ⚡ Using **Redis** for caching and **RabbitMQ** for message queues
 - 🔐 Managed **environment variables, IAM roles, SSH keys, and production deployment workflows**
 
 ---
