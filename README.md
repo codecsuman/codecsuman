@@ -19,6 +19,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-codecsuman-181717?style=for-the-badge&logo=github)](https://github.com/codecsuman)
 [![LeetCode](https://img.shields.io/badge/LeetCode-sumanjhanp1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sumanjhanp1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suman-jhanp-235a622b8/)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-E11D48?style=for-the-badge)](https://github.com/codecsuman/codecsuman/blob/main/Resume.pdf)
 
 </div>
 
@@ -368,6 +369,7 @@ const suman = {
 <a href="https://leetcode.com/u/sumanjhanp1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/suman-jhanp-235a622b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://sumanjhanp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://github.com/codecsuman/codecsuman/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-E11D48?style=for-the-badge"/></a>
 <a href="https://portfolio-codecsumans-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio_v2-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
