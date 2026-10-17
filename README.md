@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suman%20Jhanp&fontSize=58&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Aspiring%20Data%20Analyst&descAlignY=56&descAlign=50&animation=twinkling&fontColor=ffffff" width="100%" alt="header"/>
 
 <a href="https://github.com/codecsuman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;Aspiring+Data+Analyst+%F0%9F%93%8A;Dockerized+%26+Deployed+Apps+on+AWS+%E2%98%81%EF%B8%8F;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+Systems+%F0%9F%9A%80" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Suman+Jhanp+%F0%9F%91%8B;Full-Stack+MERN+Developer+%F0%9F%92%BB;NestJS+Microservices+Developer+%F0%9F%9B%A0%EF%B8%8F;Aspiring+Data+Analyst+%F0%9F%93%8A;Dockerized+%26+Deployed+Apps+on+AWS+%E2%98%81%EF%B8%8F;240%2B+LeetCode+Problems+Solved+%F0%9F%A7%A9;Building+Scalable+Systems+%F0%9F%9A%80" alt="typing"/>
 </a>
 
 <br/><br/>
@@ -37,7 +37,8 @@ const suman = {
   location: "📍 Kolkata, India",
   role: "💼 Full-Stack MERN Developer & Aspiring Data Analyst",
   experience: "🏢 MERN Stack Developer Intern @ PAS Digital Technologies (May 2026–Present)",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript", "Socket.IO"],
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js", "NestJS", "TypeScript", "Socket.IO"],
+  backendArchitecture: ["NestJS Microservices", "REST APIs", "Event-Driven Design"],
   devops: ["Docker", "Kubernetes", "AWS (EC2, S3, IAM)", "CI/CD", "Jenkins", "Nginx", "PM2"],
   messagingAndCache: ["Redis", "RabbitMQ"],
   testing: ["Manual Testing", "Playwright (E2E)", "UAT", "Bug Reporting", "Postman (API Testing)"],
@@ -54,13 +55,14 @@ const suman = {
 ## 💡 Quick Highlights
 
 - 🔭 Building **scalable MERN applications** with authentication, dashboards, real-time workflows, and payment integrations
+- 🧱 Working with **NestJS** and **microservices architecture** for modular, scalable backends
 - 🐳 **Containerizing full-stack apps with Docker** and deploying them on **AWS EC2 / S3**
 - ☸️ Learning **Kubernetes** and **Jenkins** for orchestration and automated CI/CD pipelines
 - ⚡ Working with **Redis** (caching) and **RabbitMQ** (message queues) for scalable backends
 - 🧪 Doing **manual testing** and **end-to-end testing with Playwright** on real products during my internship
 - 📊 Deepening my knowledge in **Data Analytics, EDA, Power BI, and dashboard storytelling**
 - 👯 Open to collaborating on **Full-Stack**, **Open-Source**, and **Data-Driven** projects
-- 💬 Ask me about **React, Node.js, MongoDB, Docker, AWS, Python, SQL, and Data Visualization**
+- 💬 Ask me about **React, Node.js, NestJS, MongoDB, Docker, AWS, Python, SQL, and Data Visualization**
 - 🧩 Solved **240+ DSA problems** with consistent daily practice
 - 📫 Reach me through **[LinkedIn](https://www.linkedin.com/in/suman-jhanp-235a622b8/)** or explore my **[Portfolio](https://sumanjhanp.netlify.app/)**
 
@@ -78,7 +80,7 @@ const suman = {
 <tr>
 <td align="center"><b>Frontend/Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nestjs,tailwind,bootstrap&theme=dark"/>
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </td>
 </tr>
@@ -109,12 +111,14 @@ const suman = {
 </tr>
 <tr>
 <td align="center"><b>System Design</b></td>
-<td>Event Sourcing · CQRS · Rate Limiting · Consistent Hashing · Video Streaming · Payment Systems · WebRTC · Gossip Protocol · Queue Patterns</td>
+<td>NestJS Microservices · Event Sourcing · CQRS · Rate Limiting · Consistent Hashing · Video Streaming · Payment Systems · WebRTC · Gossip Protocol · Queue Patterns</td>
 </tr>
 </table>
 
 <br/>
 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square"/>
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
